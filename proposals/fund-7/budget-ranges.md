@@ -6,11 +6,11 @@ The following are the suggested budget ranges for candidates for fund 7 based up
 
 
 
-_**Important note**_ - The budget ranges are a guide. Contributor candidates can go outside these ranges. In all proposals contributors should provide sufficient evidence towards justifying their budget.
+_**Important note**_ - The budget ranges are provided as guidance. Contributor candidates can go outside these ranges apart from the maximum $50,000. In all proposals contributors should provide sufficient evidence towards justifying their budget.
 
 
 
-**Development:** $35,000 - $50,0000
+**Development:** $35,000 - $50,000
 
 **Coordination:** $25,000 - $40,000
 
@@ -44,13 +44,15 @@ Initial focus areas have been provided that list out a set of tasks that the con
 
 **Salary data source**
 
-For simplicity the United States has been used as a market for salary data. This means that the average values found from the following source should be above the global averages. Cardano is a global ecosystem so can attract talent from multiple locations. There are two reasons not to make budget ranges on the higher side of the market research. The first is as Cardano is a global ecosystem there will be a larger amount of the community where this higher budget range is a higher salary. By adding a budget range here it helps test whether the suggested values are sufficient for the majority of the ecosystem and allows the process to gather feedback to iterate and improve on the values suggested in future iterations. The second reason is that in future iterations a good incentive model to explore is usage of an impact bonus. If contributors perform specific tasks that caused a high impact in the community they could be awarded from an impact bonus fund. This approach would help to incentivise high performance and not put all the risk upfront in giving people a high salary without having provided any impactful contributions yet.
+For simplicity the United States has been used as a market for salary data. This means that the average values found from the following sources will be some of the [highest global averages](https://data.oecd.org/earnwage/average-wages.htm). Cardano is a global ecosystem so it can attract talent from anywhere in the world. Using budget ranges for peoples salaries that are close to the US average salary ranges should create an attractive proposition for people considering becoming a contributor in the community. The United States average is already higher than average across the world so as a result the top end of their budget ranges hasn't been used for the selected budget ranges. The initial budget range guidelines provide a good starting point to iterate and improve on in future iterations. Another consideration to how the budget range guidelines may change in the future is the potential to include an impact bonus. If contributors perform tasks that end up causing a high impact in the community then this sort of outcome could be awarded using an impact bonus. This approach would help to incentivise high performance and not put all the financial risk upfront by giving people a high salary without them having provided any impactful contributions yet.
 
 
 
 **Community feedback**
 
-In future rounds the community will want to vote on the data sources used for determining the budget ranges and also what values make sense if other incentivisation methods are added such as an impact bonus. This initial research provides some initial guidelines however naturally there is a need for more community involvement in defining the data used and the values decided on for guidance. Another area for consideration is with more data and analysis the community could want to be more strict on the budget ranges rather than using them as guidance. This my to keep the process simple, or because contributors are gaming the system. These types of decisions and governance can be introduced over time.
+In future rounds the community will ideally vote on the definitions of focus areas and market data sources that are used for determining the budget ranges. Another area for community governance will be values for any other incentivisation method such as an impact bonus. Another area for consideration is that with more data and analysis the community may want to be more strict on the budget ranges rather than using them as just guidance. This will come down to comparing priorities such as making the process simple or optimising the right incentives.
+
+
 
 ## Research
 
