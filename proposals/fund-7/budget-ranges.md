@@ -76,9 +76,9 @@ In future rounds the community will ideally vote on the definitions of focus are
 
 
 
-[Glassdoor](https://www.glassdoor.co.uk/Salaries/index.htm)
+****[**Glassdoor**](https://www.glassdoor.co.uk/Salaries/index.htm)****
 
-* [Coordinator](https://www.glassdoor.co.uk/Salaries/us-coordinator-salary-SRCH\_IL.0,2\_IN1\_KO3,14.htm) - $48,000 (average)
+* ****[Coordinator](https://www.glassdoor.co.uk/Salaries/us-coordinator-salary-SRCH\_IL.0,2\_IN1\_KO3,14.htm) - $48,000 (average)
 * [Management](https://www.glassdoor.co.uk/Salaries/us-management-salary-SRCH\_IL.0,2\_IN1\_KO3,13.htm?clickSource=searchBtn) - $69,000 (average)
 * [Project Management](https://www.glassdoor.co.uk/Salaries/us-project-management-salary-SRCH\_IL.0,2\_IN1\_KO3,21.htm?clickSource=searchBtn) - $81,000 (average)
 * [Events Coordinator](https://www.glassdoor.co.uk/Salaries/us-events-coordinator-salary-SRCH\_IL.0,2\_IN1\_KO3,21.htm?clickSource=searchBtn) - $46,000 (average)
@@ -106,9 +106,9 @@ In future rounds the community will ideally vote on the definitions of focus are
 
 
 
-[Indeed](https://www.indeed.com/career/)
+****[**Indeed**](https://www.indeed.com/career/)****
 
-* [Coordinator](https://www.indeed.com/career/coordinator/salaries) - $34,164 (average)
+* ****[Coordinator](https://www.indeed.com/career/coordinator/salaries) - $34,164 (average)
 * [Project Coordinator](https://www.indeed.com/career/project-coordinator/salaries) - $47,837 (average)
 * [Senior Manager](https://www.indeed.com/career/senior-manager/salaries) - $97,445
 * [Manager](https://www.indeed.com/career/manager/salaries) - $52,742 (average)&#x20;
@@ -135,11 +135,11 @@ In future rounds the community will ideally vote on the definitions of focus are
 * [Web Designer](https://www.indeed.com/career/web-designer/salaries) - $49,706 (average)
 * [Graphic Designer](https://www.indeed.com/career/graphic-designer/salaries) - $51,324 (average)
 
-&#x20;
 
-[PayScale](https://www.payscale.com)
 
-* [Administrator Coordinator](budget-ranges.md#suggested-budget-ranges) - $46,669 (average)
+****[**PayScale**](https://www.payscale.com)****
+
+* ****[Administrator Coordinator](budget-ranges.md#suggested-budget-ranges) - $46,669 (average)
 * [Communications Coordinator](https://www.payscale.com/research/US/Job=Communications\_Coordinator/Salary) - $45,736 (average)
 * [Project Coordinator](budget-ranges.md#suggested-budget-ranges) - $51,147 (average)
 * [Event Coordinator](https://www.payscale.com/research/US/Job=Event\_Coordinator/Salary) - $43,379 (average)
@@ -173,12 +173,10 @@ In future rounds the community will ideally vote on the definitions of focus are
 
 
 
-[SalaryExpert](budget-ranges.md#suggested-budget-ranges) - Data from [Economic research institute](https://www.erieri.com)
+****[**SalaryExpert**](budget-ranges.md#suggested-budget-ranges) **** - Data from [Economic research institute](https://www.erieri.com)
 
 * [Coordinator](https://www.salaryexpert.com/salary/job/coordinator/united-states) - $52,322 (average)
 * [Project Coordinator](https://www.salaryexpert.com/salary/job/project-coordinator/united-states) - $52,322 (average)
 * [Software Engineer](https://www.salaryexpert.com/salary/job/software-engineer/united-states) - $112,628 (average)
 
-
-
-[Talent.com](https://www.talent.com/salary)
+****[**Talent.com**](https://www.talent.com/salary)****

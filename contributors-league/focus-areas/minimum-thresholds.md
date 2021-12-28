@@ -10,11 +10,10 @@ You can see actual values for the minimum threshold within each of the funds und
 
 
 
-### Setting thresholds process
+### Process for setting minimum thresholds
 
 **Current -** Initially the approach for deciding on minimum thresholds will be to gather feedback from engaged community members to set the values.
 
 **Mid term future -** Introduce a voting system where engaged community participants can help to set what the thresholds are for each funding round
 
 **Long term future** - With a well defined product workflow setup it will become clear where there is lacking support for certain areas in the ecosystem. A feedback system will also be able to find out where the community thinks improvements can be made. This could support a more reactive system outside the funding process where contributors can vote to hire other contributors based on dynamic demands of the ecosystem. In a similar approach if requirements change then contributors can be removed if that focus area is no longer providing value.
-

@@ -1,6 +1,8 @@
-# Fund 7
+---
+description: Challenge setting proposal for fund 8
+---
 
-_Challenge setting proposal for fund 8_
+# Fund 7
 
 **Challenge Title**
 

@@ -137,5 +137,3 @@ The role of dealing with who is and isn't a full time contributor will be dealt 
 **Finance**
 
 Contributors would be funded directly from the treasury and in six month term bursts which makes that part of the process need little oversight. The core ecosystem will have other costs such as server costs or using other SaaS tools to help the contributors work more effectively. Managing these costs can be done through voting from contributors with a shared funding pot. If the complexity of this shared funding and need for voting increases over time it will then make sense to explore the usage of a finance focus area where these concerns are better managed.
-
-****

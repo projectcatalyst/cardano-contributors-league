@@ -4,8 +4,8 @@
 
 * [Overview](README.md)
 * [Focus Areas](contributors-league/focus-areas/README.md)
-  * [Minimum Thresholds](contributors-league/focus-areas/minimum-thresholds.md)
   * [Budget Ranges](contributors-league/focus-areas/budget-ranges.md)
+  * [Minimum Thresholds](contributors-league/focus-areas/minimum-thresholds.md)
 
 ## Become a contributor
 
@@ -24,5 +24,5 @@
 
 * [Fund 7](proposals/fund-7/README.md)
   * [Budget Allocation](proposals/fund-7/budget-allocation.md)
-  * [Minimum Thresholds](proposals/fund-7/minimum-thresholds.md)
   * [Budget Ranges](proposals/fund-7/budget-ranges.md)
+  * [Minimum Thresholds](proposals/fund-7/minimum-thresholds.md)

@@ -8,7 +8,7 @@ Budget ranges represent what a candidate is recommended to use when budgeting a 
 
 
 
-### Budget range setting process
+### Process for setting budget range
 
 **Current**: The budge range is calculated looking at the tasks and skills of a specific focus area and then looking at the market value of that type of role. Engaged community members define the initial budget ranges.
 
