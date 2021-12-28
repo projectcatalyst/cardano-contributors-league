@@ -19,4 +19,4 @@ description: >-
 
 ### Contents
 
-* ****[**Candidate Proposal**](candidate-proposal.md) - Details on how to create a proposal and what to include to become a full time contributor.
+* ****[**Candidate Proposal**](candidate-proposal/) - Details on how to create a proposal and what to include to become a full time contributor.
