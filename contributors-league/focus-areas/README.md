@@ -6,11 +6,11 @@ description: >-
 
 # Focus Areas
 
-Focus areas provide clarity to contributors on who is working in which area whilst improving the core ecosystem. Voters also get clarity when voting on who they want to fill certain roles within the ecosystem.
+Focus areas provide clarity to contributors and the wider community by letting everyone else know what area the contributor intends to help with for improving the Cardano ecosystem. Voters also get clarity when voting on who they want to fill certain roles within the ecosystem.
 
-Contributors select focus areas to indicate where they will spend the most time supporting the ecosystem. Selecting a focus area does not mean the contributor can't help in the other areas it simply means they will look to spend the majority of their time in their selected focus area.
+Contributors select a focus area to indicate where they will spend the most time supporting the ecosystem. Selecting a focus area does not mean the contributor can't help in the other areas. It instead simply means they will look to spend the majority of their time in that selected focus area.
 
-For a given funding round [minimum thresholds](minimum-thresholds.md) and [budget ranges](budget-ranges.md) are attached to focus areas.
+For each given funding round [budget ranges](budget-ranges.md) and [minimum thresholds](minimum-thresholds.md) are added to guide contributors making a good proposal and to ensure there's enough of each skill set in each contributor cohort.
 
 ## Selected focus areas
 
@@ -118,22 +118,22 @@ The following are the suggested initial focus areas for contributors to select f
 
 ## Potential future focus **areas**
 
-The following are options to consider now or in the future as other potential focus areas.&#x20;
+The following are other options to consider that could become focus areas in the future.&#x20;
 
 ****
 
 **Education**
 
-Many of the existing focus areas can support with education around the core ecosystem. Those focus areas include writing documentation relevant to what they are working on and also hosting meetings with other contributors and the wider community. Coordination, design, product and marketing focus areas are also well suited for helping create any visual education aids that benefit the core ecosystem. If the core process requires more education in the future a full time education contributor could be added that would solely focus on educational materials and supporting the community.
+Many of the existing focus areas can support the education of the core ecosystem. Those tasks include writing documentation relevant to what they each contributor is working on and also hosting meetings with other contributors and the wider community. Coordination, design, product and marketing focus areas are well suited for helping create visual education aids to support education. If there is difficulty maintaining ecosystem educational resources a group of full time education contributors could be considered that would solely focus on educational materials and supporting the community.
 
 ****
 
 **Human resources**
 
-The role of dealing with who is and isn't a full time contributor will be dealt with by the community. Initially through general voters and potentially in the future more focussed on just the engaged community members to simplify the process. If a contributor does not perform or produces conflict with others they are likely to not secure future funding so managing contributors from a human resources perspective may not be needed. If contributors received more of a full time role in the future this would be where human resource processes and systems would be needed or a focus area for contributors to dedicate more time to these issues.
+The role of dealing with who is and isn't a full time contributor will be dealt with by the community. Initially through general voters and then potentially in the future engaged community members could just be used for hiring to simplify the process. If a contributor does not perform or produces conflict with others they are likely to not secure future funding so managing contributors from a human resources perspective may be fairly self governing. Depending on the issues faced from funding contributors directly in the future a more full time human resource contributor could be considered to resolve and manage these issues. Alternatively this role could end up being achieved under a form of auditing role that is fulfilled by community members at the end of contributor funding terms.
 
-****
+
 
 **Finance**
 
-Contributors would be funded directly from the treasury and in six month term bursts which makes that part of the process need little oversight. The core ecosystem will have other costs such as server costs or using other SaaS tools to help the contributors work more effectively. Managing these costs can be done through voting from contributors with a shared funding pot. If the complexity of this shared funding and need for voting increases over time it will then make sense to explore the usage of a finance focus area where these concerns are better managed.
+Contributors would be funded directly from the treasury in six month term bursts. This helps makes the initial process need little oversight. However the core ecosystem will have other costs such as server costs or usage of SaaS tools to help the contributors work effectively. Managing these costs could be done through a governance process done by contributors using a shared funding pot. If the complexity of managing a shared funding pot increases over time it will make sense to explore the usage of a finance focus area so that these concerns become better managed.

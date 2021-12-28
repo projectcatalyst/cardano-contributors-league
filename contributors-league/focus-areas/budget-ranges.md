@@ -4,7 +4,11 @@ description: What are budget ranges and how are they determined?
 
 # Budget Ranges
 
-Budget ranges represent what a candidate is recommended to use when budgeting a full time salary for a specific term. The range provides guidance values from junior to senior. It is up to the contributor to provide evidence of where they are on the budget range in terms of their seniority.
+Budget ranges represent what a candidate is recommended to use when budgeting a full time salary for a specific term of time. The range provides guidance values from junior to senior. It is up to the contributor to provide evidence of where they are on the budget range in terms of their seniority.
+
+
+
+After [reviewing potential options](../../background/contributor-analysis.md) the initial budget range is for a 6 month funding time frame.
 
 
 

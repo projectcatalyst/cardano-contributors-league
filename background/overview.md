@@ -6,7 +6,7 @@ description: >-
 
 # Overview
 
-The Cardano Contributors League was created as a way to resolve the issues around the usage of only a proposal based funding model. Problems around speed, flexibility and aligning incentives led to exploring how hiring contributors could provide an effective alternative.
+The Cardano Contributors League was created as a way to resolve the issues around the sole usage of proposal based funding. Problems around speed, flexibility and aligning incentives led to exploring how funding contributors could be a more effective alternative.
 
 ### Contents
 

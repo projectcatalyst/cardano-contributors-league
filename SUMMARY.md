@@ -9,7 +9,6 @@
 
 ## Become a contributor
 
-* [Overview](become-a-contributor/overview.md)
 * [Candidate Proposal](become-a-contributor/candidate-proposal/README.md)
   * [Example Candidate Proposal](become-a-contributor/candidate-proposal/example-candidate-proposal.md)
 
