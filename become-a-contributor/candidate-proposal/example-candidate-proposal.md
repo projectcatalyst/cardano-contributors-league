@@ -56,5 +56,3 @@ description: >-
 **Budget requested** - **** $39,000
 
 **Budget reasoning** - My background as a developer and product owner give me enough skills and experience to effectively perform in the focus area of product at a mid to senior level. I have provided evidence of my history in the ecosystem and have been a big part of helping reshape how Catalyst works to improve how it functions for the wider ecosystem.
-
-****
