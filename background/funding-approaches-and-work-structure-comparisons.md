@@ -50,6 +50,8 @@ The proposal process consists of individuals or teams creating proposal document
 * **Detailed plan** - Proposals provide a way for teams to provide a detailed plan for how something will be achieved and why it is being implemented.
 * **Fully researched** - Proposals can provide as much research as needed to justify why a solution is the correct approach. This approach is great for community members highly involved who want to understand the full background behind a proposal.
 
+
+
 ## Catalyst Circles
 
 The initial Catalyst Circle was created to help with identifying the problems that exist in the ecosystem and to help decide which ones were high priority. Once prioritised the circle would look at potential solution options and also communicate these problems back to the community for either circle members to look into resolving or the community.
@@ -70,7 +72,9 @@ The initial Catalyst Circle was created to help with identifying the problems th
 
 **Community voted** - The community democratically votes on who is elected into the circle&#x20;
 
-**Flexible** - The circle members can move their attention onto other concerns quickly that helps them maximise their impact
+**Flexible** - The circle members can move their attention onto other concerns quickly that helps them maximise their impact.
+
+
 
 ## Rapid funding
 
@@ -85,6 +89,8 @@ The initial Catalyst Circle was created to help with identifying the problems th
 **Speed** - Rapid funding can help community members working on the core ecosystem innovate faster by not needing to go through a slower more detailed process.
 
 **Simple process** - Community members can save time and effort by using a simple process to get smaller amounts of funding rather than go through the current proposal process.
+
+
 
 ## Contributors
 
@@ -126,6 +132,8 @@ The initial Catalyst Circle was created to help with identifying the problems th
 * **Effective community support** - Funded contributors league candidates would be able to become a better nucleus of support for the community and help with answering questions and technical issues as they become increasingly familiar with the entire ecosystem.
 * **Supports proposals** - Contributors are incentivised to support Catalyst focussed proposals and help where possible. Encourages innovation outside the team whilst maximising on collaboration.
 * **Increased education** - More full time contributors helps produce people who are fully educated on the entire ecosystem due to more involvement. This increased awareness and experience leads to being able to support the community better and improve coordination and collaboration.
+
+
 
 ## **Summary**
 

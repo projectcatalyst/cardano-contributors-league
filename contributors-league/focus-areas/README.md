@@ -14,11 +14,15 @@ For each given funding round [budget ranges](budget-ranges.md) and [minimum thre
 
 ## Selected focus areas
 
-The following are the suggested initial focus areas for contributors to select from, other considerations are discussed in the [future potential focus areas](./#others-areas-to-consider).
+The following are the initial focus areas for contributors to select from. Other future considerations are discussed below in the [future potential focus areas](./#others-areas-to-consider).
 
 ****
 
-**Development**
+### **Development**
+
+**Objective** - Develop and maintain the ecosystem systems and services and also support the community on a technical basis.
+
+**Tasks**
 
 * Research technical implementation options
 * Define technical requirements
@@ -32,7 +36,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**Coordination**
+### **Coordination**
+
+**Objective** - Maximise the collaboration and coordination within the ecosystem and support the community with collaboration, organisation, education and events.
+
+**Tasks**
 
 * Align proposal teams and support collaboration
 * Support the improvement of proposals writing and communication
@@ -46,7 +54,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**Analysis**
+### **Analysis**
+
+**Objective** - Research and analyse the ecosystem tools and services and produce data points, reports and documentation that help guide the future development of the ecosystem. Help ensure other contributors have the information they need to maximise their impact.
+
+**Tasks**
 
 * Analyse and give feedback to proposals and challenge setting
 * Ecosystem research, problem outlining and analysis
@@ -60,7 +72,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**QA & Auditing**
+### **QA & Auditing**
+
+**Objective** - Help with quality assurance testing on changing ecosystem functionality to ensure releases are to a high quality and support in the development of new processes and reporting so proposal teams can demonstrate their impact. Help the community with support on auditability and with auditing and flagging proposals.
+
+**Tasks**
 
 * Research, support and flag proposals that require auditing
 * Test implementation features prior to release
@@ -73,7 +89,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**Marketing**
+### **Marketing**
+
+**Objective** - Bring together, host events and provide support to the marketing efforts from across the ecosystem to bring better alignment, data driven results and report evidence on the impact of the mix of efforts that promote the ecosystem.
+
+**Tasks**
 
 * Share and promote ecosystem solutions
 * Support marketing focussed proposals
@@ -88,7 +108,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**Product**
+### **Product**
+
+**Objective** - Research, collate and get consensus on the highest priority problems within the ecosystem to then help guide solutions that solve those problems and maintain a high quality user experience. Help contributors come to alignment in how to implement solution and work with the community to bring in feedback and data to support product direction through community led governance.
+
+**Tasks**
 
 * Lead efforts on problem sensing, problem prioritisation, solution research and solution implementation planning
 * Engage with contributors and community to define product strategy and roadmap
@@ -104,7 +128,11 @@ The following are the suggested initial focus areas for contributors to select f
 
 
 
-**Design**
+### **Design**
+
+**Objective** - Design graphics, layouts and optimise user flows to create a high quality user experience for the community. Help contributors with maintaining consistency and alignment of the visual design and user experiences of all the ecosystems tools and services.
+
+**Tasks**
 
 * Create design concepts, graphics and layouts
 * Create and maintain style guides, icons and illustrations
@@ -115,6 +143,8 @@ The following are the suggested initial focus areas for contributors to select f
 * Support online and local events with design material
 * Support and provide feedback on design to proposal teams
 * Host design discussion meetings
+
+
 
 ## Potential future focus **areas**
 
