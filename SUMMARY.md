@@ -15,6 +15,7 @@
 ## Background
 
 * [Overview](background/overview.md)
+* [Ecosystem Goals](background/ecosystem-goals.md)
 * [Funding Approaches and Work Structure Comparisons](background/funding-approaches-and-work-structure-comparisons.md)
 * [Product Development Workflow](background/product-development-workflow.md)
 * [Contributor Analysis](background/contributor-analysis.md)

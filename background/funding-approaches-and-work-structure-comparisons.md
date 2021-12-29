@@ -42,7 +42,7 @@ The proposal process consists of individuals or teams creating proposal document
 * **Budget inaccuracies** - It is difficult to predict exactly how long it will take for a team to execute a proposal. The complexity is further increased by adding in the need for budgeting tax or the process of measuring success with KPIs. Trying to predict these budgets with any exactness adds complexity which could be avoided by paying contributors a salary budget.
 * **Scattered funding** - Each proposal receives funding for its execution which leads to complexity as community members must calculate what they should be paid by an increasing amount of funded proposals they are helping with.
 * **Increased tax implications** - Funding a proposal means that a group of people who represent some form of entity will get paid before the contributors are. This leads to tax considerations where in many countries this may be considered an initial taxable event (e.g. corporation or sales tax) that should be applied before funding is then passed down onto contributors.
-* &#x20;**Detailed proposal information** - Proposals must add detailed proposal information such as a roadmap, KPIs and similar details which adds complexity to the process especially in scenarios where work that needs to happen within the core ecosystem is more simple and doesn't require the same depth of information.
+* &#x20;**Detailed proposal requirements** - Proposals must add detailed proposal information such as a roadmap, KPIs and similar details which adds complexity to the process especially in scenarios where work may not require the same depth of information.
 
 ### **Advantages**
 
