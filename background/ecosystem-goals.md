@@ -10,13 +10,13 @@ Each different part of the Cardano ecosystem can have goals to strive towards th
 
 ## **Project Catalyst**
 
-[Project Catalyst](https://cardano.ideascale.com) is an example of a core part of the Cardano ecosystem that is an important for the overall growth and success of the ecosystem.
+[Project Catalyst](https://cardano.ideascale.com) is an example of a core part of the Cardano ecosystem that is important for the overall growth and success of the ecosystem.
 
 
 
 **Experience objectives** - What goals are sensible that if achieved would help Project Catalyst reach its full potential?
 
-_The following list provides some key starting goals but is a non-exhaustive list._
+_The following list provides some example goals however is a non-exhaustive list._
 
 * **High quality end user experience** - As an ecosystem we want the different users (voters, community advisors, proposers) of the ecosystem to have a high quality experience that represents a world leading ecosystem. The better the experience the more high quality contributors and people the ecosystem can attract.
 * **Easy to understand and get involved** - The ecosystem needs to be easy for people to learn and use so that the largest amount of the global population are able to benefit from using Cardano.
