@@ -1,7 +1,7 @@
 ---
 description: >-
   A comparison of the usage of proposals, Catalyst Circle, rapid funding and
-  contributors in terms of a funding approaches and work structures for the core
+  contributors in terms of funding approaches and work structures for the core
   Cardano ecosystem.
 ---
 
@@ -142,4 +142,4 @@ The initial Catalyst Circle was created to help with identifying the problems th
 * Rapid funding is being explored to help resolve the issues around the speed and simplicity of the process. Although more convenient the process still is in a proposal structure meaning it does not resolve the issues of full alignment and flexibility of community efforts.
 * The contributors approach brings together advantages from all of the options with little downside. It brings the product development workflow structure that Catalyst Circle introduced but contributors can then start taking a solution through to implementation as well that further enhances their knowledge and the iterative feedback loop. Contributors can use the same open transparent process to host meetings to involve the community and provide the same benefits. Contributors also has the benefits of speed and simplicity that the rapid funding approach is looking to resolve but doesn't have the drawbacks of not solving the alignment and collaboration issues.
 * The core reason using contributors provides a better approach to building out core ecosystem features such Project Catalyst are it maximises alignment and collaboration and gives maximum flexibility for contributors to provide the highest possible impact.
-* The issues for using contributors can also be resolved either by product development workflow considerations or slightly changing how funding is received. These issues and any opportunities are covered in the [future of contributors league](future-of-contributors-league.md).
+* The issues for using contributors can also be resolved either by usage of product development workflows and also considering how funding is distributed. These issues and any opportunities are covered in the [future of contributors league](future-of-contributors-league.md).

@@ -1,8 +1,8 @@
 ---
 description: >-
-  A product development workflow that can be applied to how products such as
-  Project Catalyst are improved over time. Includes what impact having knowledge
-  differences make on that workflow.
+  A product development workflow applies to how products such as Project
+  Catalyst can be improved over time. Considerations are included for the impact
+  of having knowledge differences make.
 ---
 
 # Product Development Workflow
@@ -29,6 +29,8 @@ description: >-
 * **Collaboration** - Collaboration between multiple people is needed for every step of a product development process. Strong collaboration requires open, transparent and frequent communication from those involved in the process.&#x20;
 * **Consensus** - Voting on problem prioritisation and solutions require a democratic voting process with relevant participants.&#x20;
 * **Open process** - The information and decisions made from each part of the process should be open to the community. Feedback should be possible at any given stage.
+
+
 
 ## Cardano ecosystem knowledge differences
 
