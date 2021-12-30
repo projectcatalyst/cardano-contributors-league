@@ -13,7 +13,7 @@ The proposal process consists of individuals or teams creating proposal document
 
 ### **Issues**
 
-**Poor alignment**
+**Weak alignment**
 
 * **Misaligned financial incentives** - Proposal teams have a financial incentive to defend proposals they create as them being funding can be what determines whether they get to spend time working in the ecosystem. This financial incentive can prevent proposal teams moving to the strongest solution ideas and to instead continue to support and promote what they have initially proposed. Multiple similar funded ideas also will often mean wasted treasury funding resources.
 * **Misaligned collaboration incentives** - If proposers help other proposal teams when they have existing funded proposals to complete they risk not completing them and potentially missing out on future funding rounds. There is no direct incentive to collaborate with other similar proposals and if ideas are similar then proposal teams can easily choose to compete instead of collaborate.
@@ -80,7 +80,7 @@ The initial Catalyst Circle was created to help with identifying the problems th
 
 ### Issues
 
-**Proposal structure** - By using a proposal structure any rapid funding approach gets similar issues as outlined under proposals. The issues around poor alignment, flexibility, knowledge gaps and complexity will often still apply though simply on a smaller scale due to rapid funding being used as a tool for funding smaller requests.
+**Proposal structure** - By using a proposal structure any rapid funding approach gets similar issues as outlined under proposals. The issues around weak alignment, flexibility, knowledge gaps and complexity will often still apply though simply on a smaller scale due to rapid funding being used as a tool for funding smaller requests.
 
 **Governance complexity** - Rapid funding still requires governance on who will receive the funding. Community voter engagement for the larger more substantial proposals is still difficult to increase. Having even smaller and regular proposals would have a greater issue.
 
