@@ -14,9 +14,7 @@ A key objective for the Contributors League is to help create the best environme
 
 
 
-{% embed url="https://youtu.be/_wo8yXrX9oM" %}
-Cardano Contributors League video overview
-{% endembed %}
+{% embed url="https://www.youtube.com/embed/_wo8yXrX9oM" %}
 
 ### **Initial focus**
 
