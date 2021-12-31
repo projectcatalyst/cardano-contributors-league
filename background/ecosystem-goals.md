@@ -14,9 +14,7 @@ Each different part of the Cardano ecosystem can have goals to strive towards th
 
 
 
-**Experience objectives** - What goals are sensible that if achieved would help Project Catalyst reach its full potential?
-
-_The following list provides some example goals however is a non-exhaustive list._
+**Goals** - What are some general sensible goals that if achieved will help Project Catalyst reach its full potential? _The following list is a non-exhaustive and provide some examples to consider when thinking about the funding and working processes._
 
 * **High quality end user experience** - As an ecosystem we want the different users (voters, community advisors, proposers) of the ecosystem to have a high quality experience that represents a world leading ecosystem. The better the experience the more high quality contributors and people the ecosystem can attract.
 * **Easy to understand and get involved** - The ecosystem needs to be easy for people to learn and use so that the largest amount of the global population are able to benefit from using Cardano.
@@ -24,9 +22,9 @@ _The following list provides some example goals however is a non-exhaustive list
 
 ****
 
-**Core system flow**
+**Core system process**
 
-The core system flow for Project Catalyst starts with proposal creation and ends with funded proposals reporting their progress and KPIs whilst executing their proposal. The flow involves multiple stakeholders such as proposers, community advisors and voters.
+The core system process for Project Catalyst starts with proposal creation and ends with funded proposals reporting their progress and KPIs whilst executing their proposal. The flow involves multiple stakeholders such as proposers, community advisors and voters.
 
 ![Some of the core system flows of the Catalyst process](<../.gitbook/assets/catalyst-components (3).png>)
 
