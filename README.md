@@ -14,6 +14,10 @@ A key objective for the Contributors League is to help create the best environme
 
 
 
+{% embed url="https://youtu.be/_wo8yXrX9oM" %}
+Cardano Contributors League video overview
+{% endembed %}
+
 ### **Initial focus**
 
 An initial focus for the Contributors League will be supporting Project Catalyst. The reasons for this are:
