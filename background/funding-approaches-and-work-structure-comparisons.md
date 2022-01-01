@@ -100,7 +100,7 @@ The initial Catalyst Circle was created to help with identifying the problems th
 
 **Team synergy** - There is a risk that contributors paid for by the treasury don't have a high synergy when working with each other. Contributors may prefer different processes or approaches to other contributors which may lead to decision complexity or potential conflicts.
 
-**Selecting candidates** - Voters are likely to have much familiarity with the candidates they are voting for to become contributors. A proposal is easier to understand from a high level than working out the potential impact of each contributor. Ranking candidates between others without sufficient information is also difficult.
+**Selecting candidates** - Voters are likely to have low familiarity with the candidates they are voting for to become contributors. A proposal is easier to understand from a high level over trying to work out the potential impact of individual contributors. Ranking candidates without sufficient information also presents a challenge to vote on the ideal candidates.
 
 ### **Avantages**
 
@@ -125,7 +125,7 @@ The initial Catalyst Circle was created to help with identifying the problems th
 
 * **Simple objective** - Contributors have the objective to provide the best return on intention they can through high impact work that helps maintain, support or improve the core ecosystem.
 * **Less distractions** - Impactful contributors in the ecosystem can be best utilised by doing what they do best rather than needing to create proposals and market them to get funding. By funding individuals in the ecosystem the community can benefit from the contributors being able to focus undistracted on whatever is most impactful.
-* **Simple tax implications** - Funding individual contributors allows them to class that as personal income or through their own personal business entity. This simplifies the tax implications and saves time meaning contributors have more time to focus on impact.
+* **Simple tax implications** - Funding individual contributors allows them to class that as personal income or through their own personal business entity. This simplifies the tax implications and saves time meaning contributors have more time to focus on impact rather than tracking contributors in a mixture of proposal ideas.
 
 **Better community support**
 
@@ -142,4 +142,4 @@ The initial Catalyst Circle was created to help with identifying the problems th
 * Rapid funding is being explored to help resolve the issues around the speed and simplicity of the process. Although more convenient the process still is in a proposal structure meaning it does not resolve the issues of full alignment and flexibility of community efforts.
 * The contributors approach brings together advantages from all of the options with little downside. It brings the product development workflow structure that Catalyst Circle introduced but contributors can then start taking a solution through to implementation as well that further enhances their knowledge and the iterative feedback loop. Contributors can use the same open transparent process to host meetings to involve the community and provide the same benefits. Contributors also has the benefits of speed and simplicity that the rapid funding approach is looking to resolve but doesn't have the drawbacks of not solving the alignment and collaboration issues.
 * The core reason using contributors provides a better approach to building out core ecosystem features such Project Catalyst are it maximises alignment and collaboration and gives maximum flexibility for contributors to provide the highest possible impact.
-* The issues for using contributors can also be resolved either by usage of product development workflows and also considering how funding is distributed. These issues and any opportunities are covered in the [future of contributors league](future-of-contributors-league.md).
+* The issues for using contributors can also be resolved either by usage of product development workflows and also improving how the funding is distributed in the future. These issues and any opportunities are covered in the [future of contributors league](future-of-contributors-league.md).
