@@ -8,7 +8,7 @@ The budget allocation is $800,000 which leads to a range of 16 to 26 contributor
 
 **Development**: 5
 
-**Coordination**: 4
+**Coordination**: 5
 
 **Analysis**: 1
 
@@ -18,15 +18,15 @@ The budget allocation is $800,000 which leads to a range of 16 to 26 contributor
 
 **Marketing**: 1
 
-**Design**: 0
+**Design**: 1
 
-**Total**: 14
+**Total**: 16
 
 ****
 
 ### Notes
 
-A minimum threshold of 14 contributors is allocated above. There will be a minimum of 16 contributors which means there are a minimum of 2 and maximum of 8 contributors who will be placed into any of the focus areas once the thresholds are met.
+A minimum threshold of 16 contributors is allocated above. There will be a minimum of 16 contributors which means there could be anywhere from 0 to likely 8 contributors who would be placed into any of the focus areas once the minimum thresholds are met.
 
 
 
@@ -34,7 +34,7 @@ A minimum threshold of 14 contributors is allocated above. There will be a minim
 
 **Development**: High - The ecosystem has an increasing amount of complex core functionality required which warrants the need for a large number of developers.
 
-**Coordination**: High - A large number of ecosystem projects and proposals are introduced each funding round that require coordination and support.
+**Coordination**: High - A large number of ecosystem projects and proposals are introduced each funding round that require coordination and support. Online meetings are an important way for the community to connect.
 
 **Analysis**: Low - Some analysis is needed on the ecosystem and proposals to give a good overview of issues and solutions available in the ecosystem. Analysis is not needed at all times in every part of the ecosystem.
 

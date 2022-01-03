@@ -6,7 +6,7 @@ The following are the suggested budget ranges for candidates for fund 7 based up
 
 
 
-_**Important note**_ - The budget ranges are provided as guidance. Contributor candidates can go outside these ranges apart from the maximum $50,000. In all proposals contributors should provide sufficient evidence towards justifying their budget.
+_**Important note**_ - The budget ranges are provided as guidance. Contributor candidates can go outside these ranges apart from above the maximum $50,000. In all proposals contributors should provide sufficient evidence towards justifying their budget.
 
 
 
