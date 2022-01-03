@@ -26,7 +26,7 @@ The budget allocation is $800,000 which leads to a range of 16 to 26 contributor
 
 ### Notes
 
-A minimum threshold of 16 contributors is allocated above. There will be a minimum of 16 contributors which means there could be anywhere from 0 to likely 8 contributors who would be placed into any of the focus areas once the minimum thresholds are met.
+A minimum threshold of 16 contributors is allocated above. There will be a minimum of 16 contributors which means there could be anywhere from 0 to 8 contributors who could be placed into any of the focus areas once the minimum thresholds are met. Most contributors will not request the maximum budget range and due to that it is likely there are at least 3 to 5 contributors who will be placed into any of the focus areas above the minimum thresholds.
 
 
 
