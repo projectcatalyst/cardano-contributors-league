@@ -3,6 +3,7 @@
 ## Contributors League
 
 * [Overview](README.md)
+* [Responsibilities](contributors-league/responsibilities.md)
 * [Focus Areas](contributors-league/focus-areas/README.md)
   * [Budget Ranges](contributors-league/focus-areas/budget-ranges.md)
   * [Minimum Thresholds](contributors-league/focus-areas/minimum-thresholds.md)
