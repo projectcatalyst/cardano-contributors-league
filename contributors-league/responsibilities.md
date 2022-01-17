@@ -16,7 +16,7 @@ A team of contributors should be able to cover the following combined areas of r
 
 **Coordinate** - Bring the community together to collaborate on issues and successes within the ecosystem. Helping bring proposal teams together to bring more alignment and collaboration where possible instead of any duplicated efforts.
 
-**Govern** - Supporting the ecosystem by making decisions collectively about the implementations and processes for the ecosystem. The wider community should be included into any important governance decisions, especially those that may directly impact them such as parameter changes or where the ecosystem resources are being focussed on.
+**Govern** - Supporting the ecosystem by making decisions collectively about the implementations and processes for the ecosystem. The wider community should be included into any important governance decisions, especially those that may directly impact them such as parameter changes or for deciding where resources should be allocated towards.
 
 **Develop** - Bring together data, analysis and feedback to guide execution of new processes and development of technical implementations that drive the ecosystem forward.
 
