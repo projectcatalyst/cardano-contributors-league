@@ -27,4 +27,5 @@ An initial focus for the Contributors League will be supporting Project Catalyst
 
 ### Contents
 
-* [**Focus areas**](contributors-league/focus-areas/) - Contributors choose between different focus areas when deciding on how they can best help the ecosystem. Some example focus areas include development, coordination, analysis, product, marketing and design.
+* [**Responsibilities**](contributors-league/responsibilities.md) - Listing the responsibilities involved when becoming a contributor.
+* [**Focus areas**](contributors-league/focus-areas/) - Contributors choose between different focus areas when deciding on how they can best support the ecosystem. Some example focus areas include development, coordination, analysis, product, marketing and design.
