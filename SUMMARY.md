@@ -16,7 +16,10 @@
 
 * [Overview](background/overview.md)
 * [Ecosystem Goals](background/ecosystem-goals.md)
-* [Funding Approaches and Work Structure Comparisons](background/funding-approaches-and-work-structure-comparisons.md)
+* [Funding Approaches](background/funding-approaches.md)
+* [Working Structures](background/working-structures/README.md)
+  * [Interconnected Services](background/working-structures/interconnected-services.md)
+* [Governance Processes](background/governance-processes.md)
 * [Product Development Workflow](background/product-development-workflow.md)
 * [Contributor Analysis](background/contributor-analysis.md)
 * [Future of Contributors League](background/future-of-contributors-league.md)
