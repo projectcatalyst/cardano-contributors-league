@@ -4,13 +4,15 @@ description: >-
   contributors in the ecosystem using sensible requirements and policies.
 ---
 
-# Contributor Analysis
+# Contributor Structure
 
 This analysis looks at the implications of funding contributors to work in the ecosystem full time with analysis on different factors can help lead to better outcomes.
 
 ## What is a contributor?
 
 A contributor is anyone who helps to support, improve or maintain the Cardano ecosystem. For example a contributor could be giving support to people to improve their proposals, a contributor may help with improving the tooling used for assessing proposals or a contributor also could help with managing the data that comes out of the voting process.
+
+
 
 ## Responsibilities: Focus areas vs Full autonomy
 
@@ -30,6 +32,8 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * To provide flexibility contributors specifying a focus area can still help in other areas. The contributors main task is to provide maximum value to the ecosystem which might mean helping in other areas. The contributor should aim to spend the majority of their time in the focus area they specify. Contributors can change their focus area in future funding rounds.
 * The ecosystem will benefit from having a balanced amount of skills within a cohort of contributors. To achieve this a minimum threshold can be applied to each focus area so that the minimum required positions are filled when a cohort of candidates go through the process.
 * A surplus amount can be included in the total budget to allow for flexibility in the type of contributors included in the cohort. As a surplus flexibility example, a contributor budget could be $500,000. The minimum focus area thresholds are 4 development, 2 coordination, 1 analysis and 1 product each with a capped salary of $50,000 for 6 months. The surplus in this scenario would be $100,000 meaning two contributors could be introduced that have any focus area and would be selected based off who received the highest votes after the thresholds were met.
+
+
 
 ## Budget: Seniority ranges vs Self selected
 
@@ -53,6 +57,8 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * A documented governance process will be needed at some stage for setting the focus area budget ranges between funding rounds.&#x20;
 * Contributors have a maximum budget cap of the highest value in the focus area budget range. To receive more funding they would get it through an impact bonus or through other incentivised areas such as doing proposal assessments.
 
+
+
 ## **Work:** Term based vs Full time
 
 **Term based work** - A contributor could be funded for a fixed term, such as 6 months.
@@ -72,10 +78,11 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * To mitigate the risk of the changing contributors one thing to consider is contributors as a collective to manage a community fund pot that comes from the main treasury. This pot can be used to fund other tasks and people in the community. This could help keep people employed in the ecosystem as if they didn't get voted in for a particular fund then the contributors could vote to fund them through the contributors own managed funding pot.
 * The length of the term can be explored more in the future, some roles may be better suited for 3 months and other 12 months depending on what work they are focussed on. In either scenario the contributors can set aside money for specific tasks for more of a gig economy style of income for those that prefer that. Iteration in these areas should provide a good coverage of catering for how different contributors want to work within the ecosystem.
 
+
+
 ## Summary
 
 * Focus areas - Contributors should have a focus area so that there are better assurances that there will always be enough skills available for each core part of the ecosystem.
 * Budget ranges - Focus areas should include budget ranges that represent junior to senior experience levels that will help guide candidates when making a proposal to become a funded contributor.
 * Impact bonus - An impact bonus can be explored and introduced in the future to further align incentives for contributors by rewarding those that provide impactful return on intention.
 * Term based work - Contributors can request a budget for a fixed term of work such as 6 months.
-

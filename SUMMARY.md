@@ -1,29 +1,34 @@
 # Table of contents
 
-## Contributors League
-
 * [Overview](README.md)
-* [Responsibilities](contributors-league/responsibilities.md)
-* [Focus Areas](contributors-league/focus-areas/README.md)
-  * [Budget Ranges](contributors-league/focus-areas/budget-ranges.md)
-  * [Minimum Thresholds](contributors-league/focus-areas/minimum-thresholds.md)
+
+## Contributor
+
+* [Responsibilities](contributor/responsibilities.md)
+* [Focus Areas](contributor/focus-areas/README.md)
+  * [Budget Ranges](contributor/focus-areas/budget-ranges.md)
+  * [Minimum Thresholds](contributor/focus-areas/minimum-thresholds.md)
 
 ## Become a contributor
 
 * [Candidate Proposal](become-a-contributor/candidate-proposal/README.md)
   * [Example Candidate Proposal](become-a-contributor/candidate-proposal/example-candidate-proposal.md)
 
+## Contributor Analysis
+
+* [Contributor vs Employee](contributor-analysis/contributor-vs-employee.md)
+* [Contributor Structure](contributor-analysis/contributor-structure.md)
+* [Contributor Future Improvements](contributor-analysis/contributor-future-improvements.md)
+
 ## Background
 
 * [Overview](background/overview.md)
-* [Ecosystem Goals](background/ecosystem-goals.md)
+* [Catalyst Ecosystem Goals](background/catalyst-ecosystem-goals.md)
 * [Funding Approaches](background/funding-approaches.md)
 * [Working Structures](background/working-structures/README.md)
   * [Interconnected Services](background/working-structures/interconnected-services.md)
 * [Governance Processes](background/governance-processes.md)
 * [Product Development Workflow](background/product-development-workflow.md)
-* [Contributor Analysis](background/contributor-analysis.md)
-* [Future of Contributors League](background/future-of-contributors-league.md)
 
 ## Proposals
 

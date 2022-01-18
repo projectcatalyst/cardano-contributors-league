@@ -4,6 +4,8 @@ description: Overview of the Contributors League
 
 # Overview
 
+
+
 The Contributors League is a team of community members within the Cardano ecosystem who have been funded directly from the treasury to help manage, support and improve the ecosystem. Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
 
 
@@ -27,5 +29,8 @@ An initial focus for the Contributors League will be supporting Project Catalyst
 
 ### Contents
 
-* [**Responsibilities**](contributors-league/responsibilities.md) - Listing the responsibilities involved when becoming a contributor.
-* [**Focus areas**](contributors-league/focus-areas/) - Contributors choose between different focus areas when deciding on how they can best support the ecosystem. Some example focus areas include development, coordination, analysis, product, marketing and design.
+* [**Contributor**](broken-reference) - Find out about what would be expected from a Catalyst contributor.
+* [**Become A Contributor**](broken-reference) - Guidance on how to create a proposal to become a contributor along with an example proposal.
+* [**Contributor Analysis**](broken-reference) - Break down of the contributor structure, analysis on differences between contributors and employees and thoughts towards future improvements.
+* [**Background**](broken-reference) - A background into the ecosystem and funding approaches, working structures and governance processes that led to the need to fund contributors as a step forward for the ecosystem.&#x20;
+* [**Proposals**](broken-reference) - List of all challenge setting proposals created for hiring contributors in the ecosystem.&#x20;

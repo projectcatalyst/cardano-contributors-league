@@ -6,13 +6,15 @@ description: What should a candidate include in their proposal to become a contr
 
 The following is the information candidates should add to their proposal. An [example candidate proposal](example-candidate-proposal.md) has been created as a reference.
 
+
+
 ### **Focus area**
 
-Overview - Candidates are tasked with specifying their selected [focus area](../../contributors-league/focus-areas/) and then providing any extra information they want about the selected focus area or other focus areas they believe they will be helpful in contributing towards.
+Overview - Candidates are tasked with specifying their selected [focus area](../../contributor/focus-areas/) and then providing any extra information they want about the selected focus area or other focus areas they believe they will be helpful in contributing towards.
 
 
 
-**My main focus area** - Required, Candidates should specify the [focus area](../../contributors-league/focus-areas/) and then also how they would add value.
+**My main focus area** - Required, Candidates should specify the [focus area](../../contributor/focus-areas/) and then also how they would add value.
 
 **Focus areas I may also support** - Optional, Candidates can list out other focus areas, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other focus areas and information here if they prefer to keep their focus fully on their main selected focus area.
 
@@ -56,13 +58,13 @@ Overview - Candidates should provide some evidence where necessary to showcase t
 
 ### **Contributions**
 
-Overview - Candidates can share information on any existing contributions they've made to the ecosystem against the [focus areas](../../contributors-league/focus-areas/) that have been defined. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
+Overview - Candidates can share information on any existing contributions they've made to the ecosystem against the [focus areas](../../contributor/focus-areas/) that have been defined. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
 
 
 
 **Catalyst roles** - Optional, What roles have you helped with in Catalyst? Have you been a community advisor, veteran community advisor, voter or proposer?
 
-**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional, For any of the [focus areas](../../contributors-league/focus-areas/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence
+**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional, For any of the [focus areas](../../contributor/focus-areas/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence
 
 
 
