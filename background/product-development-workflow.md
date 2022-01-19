@@ -47,21 +47,15 @@ By Cardano ecosystem knowledge we are referring to the core processes and tools 
 
 The exact knowledge of each member in the community or contributor population is not important, nor is visualising the exact shape needed to represent those populations. The important thing to note is there are knowledge differences for both populations ranging from low too high. Active contributors will have the highest knowledge of the core ecosystem.
 
-****
-
 ### **Impact of knowledge on feedback**
 
 * In some cases it doesn't matter how much knowledge someone has. Problem sensing, suggesting solutions and giving feedback on solutions are all examples where the feedback is valued from all participants regardless of knowledge.
 * For some cases the knowledge does have an impact on the usefulness of feedback. Problem prioritisation, drafting an implementation plan, or voting on a solution are all examples of where the participant should have sufficient knowledge of the ecosystem to provide an informed judgement.
 
-****
-
 ### **Impact of knowledge on governance**
 
 * Governance in some areas should require no background knowledge in the ecosystem. Governance on general direction of the protocol or whether certain new projects should be funded or not are examples where the entire community is involved in governance.
 * When governance becomes more specific and granular the knowledge of the participants involved becomes more important. When voting on prioritising problems or a solution approach the participants will need to have knowledge of the topic at hand to make an informed decision. On a more specific level areas such as technical decisions or planning for a chosen solution approach would need even more relevant knowledge.
-
-****
 
 ### **Summary**
 

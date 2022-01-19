@@ -21,10 +21,14 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * Provides clarity on what contributors are interested in focussing their time. Contributors can mention a main focus area but could provide insight into other areas they could support the ecosystem more occasionally.
 * Provides clarity to the community on what the key areas are in the ecosystem which need contributors. Helps community understand how the ecosystem functions.
 
+****
+
 **Full autonomy** - Contributors have the freedom to work in any area of the ecosystem and only provide information on their professional background and existing contributions.
 
 * Provides complete freedom to the contributor which may be an appealing factor for becoming a contributor more than having a more specific role.
 * Risk becomes high of not having enough people for specific skills to move the ecosystem forward. For instance if many contributors got hired where no one had development experience there would be little development of the product from a technical standpoint. This outcome would slow progress down for evolving the ecosystem.
+
+****
 
 **Summary**
 
@@ -43,12 +47,16 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * Seniority ranges require an ongoing governance process to determine what those budget ranges should be that also consider the other incentives involved for being a contributor (e.g. bonuses due to impact).
 * Risk of reducing the amount of skilled contributors if they are deterred by a limiting budget range.
 
+****
+
 **Self selected** - The contributors get no guidance for specifying a budget and instead self determine the value they believe is fair based off any evidence provided.
 
 * More time consuming and difficult for a contributor to decide and justify a given budget
 * Contributor has freedom to be paid exactly what they believe they are worth
 * Risks a contributor being underpaid if they adjust their salary based off their confidence in being voted on or are unaware what the value of their role is in terms of skills required and the responsibilities included.
 * Risks a contributor is overpaid due a highly skilled professional background that justifies a higher budget but those skills not transferring to the contributor role in a way that provides a proportionally effective return to the ecosystem. It would also be difficult to adjust budget after it has been funded without high friction!
+
+****
 
 **Summary**
 
@@ -67,10 +75,14 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 * Increased risk of having constant change of contributors which could lead to a lack of in depth knowledge of the ecosystem.
 * Current funding model is better suited to introduction of term based funding as it can be added into existing process.
 
+****
+
 **Full time work** - The contributor is paid to work full time and repeatedly gets funded until they leave or are dismissed from their duties.
 
 * Requires more assurances that the candidate will be an impactful contributor as if not a process for dismissal is needed.
 * Provides stability to the contributor which could attract more people into the roles as there is a safety in being able to produce an income.
+
+****
 
 **Summary**
 
