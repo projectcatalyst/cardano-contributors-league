@@ -14,11 +14,15 @@
 * [Candidate Proposal](become-a-contributor/candidate-proposal/README.md)
   * [Example Candidate Proposal](become-a-contributor/candidate-proposal/example-candidate-proposal.md)
 
-## Contributor Analysis
+## Treasury
 
-* [Contributor vs Employee](contributor-analysis/contributor-vs-employee.md)
-* [Contributor Structure](contributor-analysis/contributor-structure.md)
-* [Contributor Future Improvements](contributor-analysis/contributor-future-improvements.md)
+* [Catalyst Contributor Treasury](treasury/catalyst-contributor-treasury.md)
+
+## Analysis
+
+* [Contributor vs Employee](analysis/contributor-vs-employee.md)
+* [Contributor Structure](analysis/contributor-structure.md)
+* [Contributor Future Improvements](analysis/contributor-future-improvements.md)
 
 ## Background
 

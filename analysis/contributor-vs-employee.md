@@ -6,7 +6,7 @@ description: >-
 
 # Contributor vs Employee
 
-## Employee
+### Employee
 
 * **Role** - Often fixed around a specific skill set. Examples include software development, product management, marketing specialist, designer or customer support.
 * **Compensation** - Often salaried income, may include yearly share options or bonus based incentives.
@@ -22,7 +22,7 @@ description: >-
 
 
 
-## Contributor
+### Contributor
 
 * **Role** - Contributors select between specific [focus areas](../contributor/focus-areas/) however their time can be allocated anywhere that creates impact.
 * **Compensation** - Term based payment (e.g. 3, 6, 12, 24 months). Could include bonuses based on impact provided. Lots to explore on different approaches!
@@ -38,7 +38,7 @@ description: >-
 
 
 
-## The future of work
+### The future of work
 
 Decentralized ecosystems with a focus on community, shared ownership and distributed governance provide a perfect environment for a new contributor based approach for helping people find and work on things that have more meaning to them. Becoming a contributor provides anyone the opportunity for a more flexible, enjoyable, adjustable and high impact alternative to becoming an employee to a centralised company.
 
