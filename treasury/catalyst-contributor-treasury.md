@@ -14,7 +14,7 @@ Usage of funds from the contributor treasury have the same overall goal as the m
 
 ### Importance of rapid funding
 
-The proposal process is slow with 3 months between funding rounds and includes a time consuming proposal writing requirement. If proposals that need funds more rapidly miss this funding window they would need to wait another 3 months.
+The proposal process takes 3 months and includes a time consuming proposal writing requirement. Proposals that need funds more rapidly who miss this funding window would need to wait another 3 months. Funding as a result can be slow and laborious for many situations.
 
 Slow fund distribution to places where the community agrees there is value and impact being provided delays potential support and innovation.
 
@@ -41,7 +41,7 @@ Full time contributors are the perfect candidates for governing and managing a t
 * **High involvement** - Being full time maximises the chance that contributors are the most well informed on what is happening in the ecosystem which will help lead to better informed decisions.
 * **Accountability** - Full time contributors would be public faces in the community and as such would have accountability towards their involvement of any votes and the information provided that helps govern the decisions made.
 * **High participation** - A high number of full time contributors can be supported to work full time in the ecosystem which helps ensure there is a diverse amount of people involved in supporting the management of the treasury.
-* **Community participation** - Full time contributors can help involve the community for every governance decisions where it is needed and more feedback would improve the decision making.
+* **Community participation** - Full time contributors can help involve the community for every governance decisions where it is needed and for where more feedback would improve the decision making.
 
 
 
