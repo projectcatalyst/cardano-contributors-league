@@ -40,7 +40,7 @@ description: >-
 
 ### The future of work
 
-Decentralized ecosystems with a focus on community, shared ownership and distributed governance provide a perfect environment for a new contributor based approach for helping people find and work on things that have more meaning to them. Becoming a contributor provides anyone the opportunity for a more flexible, enjoyable, adjustable and high impact alternative to becoming an employee to a centralised company.
+Decentralized ecosystems with a focus on community, shared ownership and distributed governance provide a perfect environment for a new contributor based approach for helping people find and work on things that have more meaning to them. Becoming a contributor provides anyone the opportunity for a more flexible, enjoyable, adjustable and high impact alternative to becoming an employee at a centralised company.
 
 
 
