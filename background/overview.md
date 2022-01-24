@@ -1,7 +1,7 @@
 ---
 description: >-
-  What is the background of Contributors League? What analysis has led to it
-  being introduced to the ecosystem?
+  What is the background of using contributors instead of proposals? What
+  analysis has led to it being introduced to the ecosystem?
 ---
 
 # Overview
@@ -12,8 +12,8 @@ The idea to fund contributors was conceived as a way to resolve the issues aroun
 
 ### Contents
 
-* [**Ecosystem Goals**](catalyst-product.md) - Overview of the Project Catalyst product and a list of sensible operational and working environment goals for the ecosystem.
+* ****[**Catalyst Goals**](catalyst-goals.md) - Overview of sensible goals for the operation and working environments for Catalyst.&#x20;
+* [**Catalyst Product**](catalyst-ecosystem-goals.md) - Overview of the Catalyst product including the core and secondary services that are involved.
 * ****[**Funding Approaches**](funding-approaches.md) - A comparison between proposal and contributor based funding.
-* [**Working Structures**](working-structures/) - Comparisons between different working structures that could emerge in Catalyst with which approach should create the best outcomes
+* [**Working Structures**](working-structures/) - Comparisons between different working structures that could emerge in Catalyst and analysis on which approach will likely create the best outcomes.
 * [**Governance Processes**](governance-processes.md) **** - Analyse on a number of different Catalyst governance decision examples along with analysis on the existing Catalyst Circle process and also the need for a rapid funding process.
-* [**Product Development Workflow**](working-structures/product-development-workflow.md) - A breakdown of a common product development workflow and details on the impact of knowledge differences across the ecosystem against these workflows.

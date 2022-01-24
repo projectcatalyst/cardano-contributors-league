@@ -36,7 +36,7 @@ description: >-
 
 By Cardano ecosystem knowledge we are referring to the core processes and tools used within the Cardano ecosystem such as the Cardano blockchain itself or its treasury funding process Project Catalyst. Project Catalyst is a good example, ecosystem knowledge here would mean awareness and understanding of all the Catalyst tools and processes that makes this part of the ecosystem function.
 
-![Visual aid for ecosystem knowledge differences](../../.gitbook/assets/knowledge-gaps.png)
+![Visual aid for ecosystem knowledge differences](../.gitbook/assets/knowledge-gaps.png)
 
 * Community **** members are anyone who interacts with the Cardano ecosystem.
 * Contributors includes anyone who is making contributions to support, improve or maintain the ecosystem. Contributors are community members, however for the visual aid they have been presented separately.
