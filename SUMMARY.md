@@ -27,13 +27,14 @@
 ## Background
 
 * [Overview](background/overview.md)
-* [Catalyst Ecosystem Goals](background/catalyst-ecosystem-goals.md)
+* [Catalyst Goals](background/catalyst-goals.md)
+* [Catalyst Product](background/catalyst-product.md)
 * [Funding Approaches](background/funding-approaches.md)
 * [Working Structures](background/working-structures/README.md)
   * [Interconnected Services](background/working-structures/interconnected-services.md)
+  * [Product Development Workflow](background/working-structures/product-development-workflow.md)
   * [Costs Of Competition](background/working-structures/costs-of-competition.md)
 * [Governance Processes](background/governance-processes.md)
-* [Product Development Workflow](background/product-development-workflow.md)
 
 ## Proposals
 

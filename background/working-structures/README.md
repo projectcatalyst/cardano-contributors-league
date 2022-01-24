@@ -4,6 +4,10 @@ Project Catalyst is made up of a number of [interconnected services](interconnec
 
 
 
+The [product development workflow](product-development-workflow.md) is a fundamental part of how a technical product evolves over time. The effectiveness of this decides what problems are prioritised, what solutions are compared and feedback incorporated into deciding and implementing suitable solutions. It is worth understanding the implications of this process when thinking about what working structures will be most effective.
+
+
+
 When comparing different working structures for Catalyst it is important to note what the potential [costs of competition](costs-of-competition.md) are and how this impacts what approaches are sensible when iterating and improving the catalyst ecosystem.
 
 ****

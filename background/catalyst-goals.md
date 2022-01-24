@@ -1,20 +1,14 @@
 ---
 description: >-
-  The Project Catalyst product and the suitable operational and working
-  environment goals
+  Review of operation and working environment goals that can help guide how to
+  improve the Catalyst ecosystem.
 ---
 
-# Ecosystem Goals
+# Catalyst Goals
 
-[Project Catalyst](https://cardano.ideascale.com) is focussed around the governance of the Cardano treasury. The ecosystem helps with nurturing new innovation and improvements to the wider ecosystem.
+[Project Catalyst](https://cardano.ideascale.com) is focussed on creating solutions to help with the governance of the Cardano treasury. The ecosystem helps with nurturing new innovation and improvements to the wider ecosystem.
 
-## Project Catalyst product
-
-The Project Catalyst product is made up of a mixture of services to help projects get funding from the Cardano treasury. The process starts with insight sharing followed by proposal creation and a number of other steps before finishing with funded proposals reporting their progress and KPIs whilst executing their proposal. The full flow involves multiple stakeholders such as proposers, community advisors and voters.
-
-
-
-![Core flow of the Catalyst ecosystem](<../.gitbook/assets/catalyst-components (3).png>)
+There are a number of sensible goals that can be outlined. First are operational goals on how the ecosystem is developed and maintained and the second is working environment goals to help maximise the chances the ecosystem has to attract high quality talent.
 
 
 
