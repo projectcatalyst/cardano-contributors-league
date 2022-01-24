@@ -1,8 +1,12 @@
 # Working Structures
 
-Project Catalyst is made up of a number of [interconnected services](interconnected-services.md). Different working structures could emerge from Catalyst based on how funding is distributed and how the ecosystem is developed and maintained.&#x20;
+Project Catalyst is made up of a number of [interconnected services](interconnected-services.md). Different working structures could emerge from Catalyst based on how funding is distributed and how the ecosystem is developed and maintained.
 
 
+
+When comparing different working structures for Catalyst it is important to note what the potential [costs of competition](costs-of-competition.md) are and how this impacts what approaches are sensible when iterating and improving the catalyst ecosystem.
+
+****
 
 **Context for wording we’ve used in this document**
 

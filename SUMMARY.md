@@ -31,6 +31,7 @@
 * [Funding Approaches](background/funding-approaches.md)
 * [Working Structures](background/working-structures/README.md)
   * [Interconnected Services](background/working-structures/interconnected-services.md)
+  * [Costs Of Competition](background/working-structures/costs-of-competition.md)
 * [Governance Processes](background/governance-processes.md)
 * [Product Development Workflow](background/product-development-workflow.md)
 
