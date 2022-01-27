@@ -2,7 +2,7 @@
 description: What should a candidate include in their proposal to become a contributor?
 ---
 
-# Candidate Proposal
+# Candidate Proposal Guide
 
 The following is the information candidates should add to their proposal. An [example candidate proposal](example-candidate-proposal.md) has been created as a reference.
 
@@ -18,7 +18,9 @@ Overview - Candidates are tasked with specifying their selected [focus area](../
 
 **Focus areas I may also support** - Optional, Candidates can list out other focus areas, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other focus areas and information here if they prefer to keep their focus fully on their main selected focus area.
 
+**Outcomes -** Required, Candidates should list some outcomes they would like to achieve for when they have completed their 6 month term of being a contributor. Candidates should aim for one to three outcomes they would like to achieve. These must be realistic and achievable and will be assessed based upon how realistic they are.
 
+****
 
 ### Personal information
 

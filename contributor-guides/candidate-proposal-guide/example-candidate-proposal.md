@@ -45,7 +45,7 @@ description: >-
 
 **Catalyst roles** - I have been a community advisor twice, during fund 5 and fund 6. I was also veteran community advisor for fund 6.&#x20;
 
-**Coordination** - I have hosted over 5 after town hall sessions discussing issues surrounding Catalyst and looked for feedback on ways to resolve them, these conversations helped lead to&#x20;
+**Coordination** - I have hosted over 5 after town hall sessions discussing issues surrounding Catalyst and looked for feedback on ways to resolve them, these conversations helped lead to changes and improvements to the Catalyst ecosystem. You can find some of those conversations on the Catalyst Swarm Youtube recordings.
 
 **Analysis** - I drafted out the need for the Cardano Contributors League as I saw an issue with the alignment and collaboration issues that a proposal process can cause and how maximising alignment of the core ecosystem was vital for long term success. You can find the documentation here at [Cardano Contributors League](https://catalyst-swarm.gitbook.io/cardano-contributors-league/).&#x20;
 

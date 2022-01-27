@@ -9,10 +9,11 @@
   * [Budget Ranges](contributor/focus-areas/budget-ranges.md)
   * [Minimum Thresholds](contributor/focus-areas/minimum-thresholds.md)
 
-## Become a contributor
+## Contributor Guides
 
-* [Candidate Proposal](become-a-contributor/candidate-proposal/README.md)
-  * [Example Candidate Proposal](become-a-contributor/candidate-proposal/example-candidate-proposal.md)
+* [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
+  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
+* [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Treasury
 
