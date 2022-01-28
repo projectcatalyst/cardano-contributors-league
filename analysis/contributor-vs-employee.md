@@ -1,7 +1,7 @@
 ---
 description: >-
-  A comparison between employees and contributors as a different working
-  approach with thoughts on what the future of work looks like
+  A comparison between employees and contributors with thoughts on what the
+  future of work looks like
 ---
 
 # Contributor vs Employee

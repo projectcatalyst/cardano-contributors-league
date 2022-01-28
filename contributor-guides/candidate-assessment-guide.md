@@ -6,9 +6,9 @@ description: >-
 
 # Candidate Assessment Guide
 
-Currently Project Catalyst is using Ideascale as an idea platform to submit and assess proposals for the governance process. Contributor proposals will also use this proposal and assessment process to start with. Due to needing to use the same assessment criteria the contributors assessments will need to include the feasibility, impact and auditability ratings for a given candidate proposal.&#x20;
+Currently Project Catalyst is using Ideascale as an idea platform to submit and assess proposals for the governance process. To start with contributor proposals will also use this proposal and assessment process. Due to needing to use the same assessment criteria the contributors assessments will need to include the feasibility, impact and auditability ratings for a given candidate proposal. The adapted usage of this criteria is detailed below in the assessment guide.
 
-In the future this approach to assessments will likely change as the ecosystem evolves and we move away from the impact, feasibility and auditability criteria that is more suited to proposal based funding.
+In the future this approach for assessments will likely change as the ecosystem evolves and we move away from the impact, feasibility and auditability criteria that is more suited to proposal based funding.
 
 
 
@@ -29,17 +29,17 @@ Review how the contributor wants to get involved, how they want to support the e
 **What to look for**
 
 * Are there focus area details clear and well described? Has the candidate clearly detailed how they would be able to improve the ecosystem or support the community for that focus area?
-* Has the candidate provides examples of how they would like to contribute?
-* Does the focus area details and examples align well with the [responsibilities](../contributor/responsibilities.md) and [focus areas](../contributor/focus-areas/) and are those focusses likely to provide a high impact to the community and ecosystem?
+* Has the candidate provided examples of how they would like to contribute?
+* Do the focus area details and examples align well with the [responsibilities](../contributor/responsibilities.md) and [focus areas](../contributor/focus-areas/)?
 
 ****
 
 **Scoring guide**
 
-* **5** :star: - **** It is very clear what the candidate would like to focus their time on providing useful examples of how they will be most impactful whilst being a contributor. The focus area details offer good information on understanding the needs of the focus area and how they will deliver impact that is aligned with the needs of the ecosystem.
-* **4** :star: - Focus area details are provided with sufficient depth and examples on matching their skills and experience. There is moderate confidence that the candidate understands how to deliver impact for the focus area they selected.
-* **3** :star: - Focus area details are added for where the candidate wants to contribute and potentially some examples. The candidate does not provide sufficient evidence they understand the duties of the focus area and how the experience and skills they have would apply to create a high impact for the ecosystem.
-* **2** :star: - Some focus area details are added however the information lacks enough depth for having any confidence the candidate understands the focus area and how best to contribute.
+* **5** :star: - **** It is very clear what the candidate would like to focus their time on providing useful examples of how they will be most impactful whilst being a contributor. The focus area details offer good information on understanding the needs of the focus area and how they will deliver impact that is aligned with the focus area and contributor responsibilities.
+* **4** :star: - Focus area details are provided with sufficient depth and examples on matching their skills and experience. There is a moderate amount of information showing their understanding of the focus area and how they can make a high impact.
+* **3** :star: - Focus area details are added for where the candidate wants to contribute with potentially some examples. The candidate does not provide sufficient evidence they understand the duties of the focus area and how their experience and skills apply to deliver high impact.
+* **2** :star: - Some focus area details are added however the information lacks enough depth to produce any confidence the candidate understands the focus area and how to provide impact.
 * **1** :star: - Little to no detail is added on areas of focus the candidate is looking to contribute towards.
 
 ****
@@ -55,7 +55,7 @@ Look at the candidates professional background, experience and skills relevant t
 **What to look for**
 
 * Does the candidate have a relevant professional background or experience?&#x20;
-* Does the candidate present enough evidence to support whether have the right skills or experience to perform against their selected focus area and outcomes they want to achieve?
+* Does the candidate present enough evidence to support whether they have the right skills or experience to perform the selected focus area?
 * Are the links, references and any online profiles provided sufficient evidence towards the candidates background?
 * Is the budget they requested reasonable? Do they provide sufficient reasoning for their budget against what the [budget ranges](../contributor/focus-areas/budget-ranges.md) guidance? If they deviated from the budget range is it reasonable and fair? Please check the latest [contributors challenge setting proposals](broken-reference) for the most recent budget range guidance. The budget reasoning does not require much depth providing the candidate has a budget in the guidance range and their professional background evidence supports the budget selected with sufficient evidence.
 

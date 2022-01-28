@@ -9,13 +9,15 @@ description: >-
 
 ### **Focus area**
 
-**My main focus area** - Product. I have worked both as a developer and product owner over my career across different teams and companies. Through that experience I have taken user defined problems through to end solutions and have regularly helped with prioritisation, solution research and helping refine the initial experience of a given solution. I would look to focus fully on Catalyst and the areas of bringing prioritisation and focus to its ongoing development. As part of this I would expect to be communicating with contributors, community members and end users on a regular basis to pull together all the information and feedback needed to present product information that will be used for voting on product decisions and direction by the cohort of contributors. You can find my history in product on my professional profile and articles I have written on the subject.
+**My main focus area** - Development. I have worked as a developer over my career across different teams and companies. Through that experience I have taken user defined problems through to end solutions and have regularly helped taking problems from data modelling through to final implementation.&#x20;
+
+My developer background was in frontend development (Github provided below). I intend to spent most of my time supporting in this area and helping to turn user flows and designs into frontend implementations that support the ongoing development of the prioritised Catalyst features.
+
+As part of my role I would expect to be communicating with product contributors, community members and end users on a regular basis to pull together all the information and feedback needed to create the best experience possible for the community.
 
 **Focus areas I may also support**
 
-1. Coordination - I have previously done public speaking on areas around product and tech and more recently spent more time discussing the benefits of blockchain. As well as help host product related public community meetings I would like to support in general community events where I can so that I can interact with new and existing members of the community. I attended the Wyoming summit meet up and also local meet ups in Miami.
-2. Analysis - I would expect to regularly be working with analysis focussed contributors to help provide product data and feedback so that they can bring complete any reports. If there is overlap in planned roadmap and proposals in Catalyst this is another area I would look to analyse and provide feedback for where needed.
-3. Development - My developer background was in frontend development (Github provided below). If I have time to support this area I would be able to turn user flows and designs into frontend implementations to support the development of the prioritised Catalyst features. I would only help in this area if it was needed more than the efforts around product, coordination and analysis.&#x20;
+1. Product - I have worked in a number of startups which meant I was closely involved with taking problems through to implementation and have a sufficient level of experience of prioritising problems and helping support team decisions for making the right solutions.
 
 
 
@@ -41,9 +43,9 @@ description: >-
 
 ### **Contributions**
 
-****
-
 **Catalyst roles** - I have been a community advisor twice, during fund 5 and fund 6. I was also veteran community advisor for fund 6.&#x20;
+
+**Development** - I developed the contributors list available at [projectcatalyst.org](https://projectcatalyst.org) which was an initial attempt to help bring the community together and increase collaboration by letting people find others based on services or skills they can offer.&#x20;
 
 **Coordination** - I have hosted over 5 after town hall sessions discussing issues surrounding Catalyst and looked for feedback on ways to resolve them, these conversations helped lead to changes and improvements to the Catalyst ecosystem. You can find some of those conversations on the Catalyst Swarm Youtube recordings.
 
@@ -53,6 +55,6 @@ description: >-
 
 ### **Budget**
 
-**Budget requested** - **** $39,000
+**Budget requested** - **** $45,000
 
-**Budget reasoning** - My background as a developer and product owner give me enough skills and experience to effectively perform in the focus area of product at a mid to senior level. I have provided evidence of my history in the ecosystem and have been a big part of helping reshape how Catalyst works to improve how it functions for the wider ecosystem.
+**Budget reasoning** - My background as a developer give me enough skills and experience to effectively perform in the focus area of development at a senior level. I have provided evidence of my history in the ecosystem and the development work I have bee involved with to support the evolution of the Catalyst ecosystem.

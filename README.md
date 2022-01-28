@@ -4,7 +4,7 @@ description: Overview of the Contributors League
 
 # Overview
 
-The Contributors League is a team of community members within the Cardano ecosystem who have been funded directly from the treasury to help manage, support and improve the ecosystem. Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
+The Contributors League is a group of Cardano community members who have been funded directly from the treasury to help manage, support and improve the ecosystem. Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
 
 
 
