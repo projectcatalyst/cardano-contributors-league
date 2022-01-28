@@ -6,7 +6,7 @@ description: >-
 
 # Contributor Future Improvements
 
-## Problems
+### Problems
 
 Some key issues were identified with funding contributors as a funding approach and working structure:
 
@@ -16,7 +16,7 @@ Some key issues were identified with funding contributors as a funding approach 
 
 
 
-## **Solutions**
+### **Solutions**
 
 **Usage of focus areas and minimum thresholds**
 
@@ -36,7 +36,7 @@ Selecting candidates is a very specific task for the general voters to be expect
 
 
 
-## Future opportunities
+### Future opportunities
 
 Many of the following could also be applied to proposals from smaller teams setups but they would need to have the same tools and processes.&#x20;
 

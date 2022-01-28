@@ -8,13 +8,15 @@ description: >-
 
 This analysis looks at the implications of funding contributors to work in the ecosystem full time with analysis on different factors can help lead to better outcomes.
 
-## What is a contributor?
+
+
+### What is a contributor?
 
 A contributor is anyone who helps to support, improve or maintain the Cardano ecosystem. For example a contributor could be giving support to people to improve their proposals, a contributor may help with improving the tooling used for assessing proposals or a contributor also could help with managing the data that comes out of the voting process.
 
 
 
-## Responsibilities: Focus areas vs Full autonomy
+### Responsibilities: Focus areas vs Full autonomy
 
 **Focus areas** - Contributors specify their professional background, existing contributions and also pick a focus areas (e.g. development, coordination, marketing) where they will spend the majority of their time whilst contributing to the ecosystem.
 
@@ -39,7 +41,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 
 
-## Budget: Seniority ranges vs Self selected
+### Budget: Seniority ranges vs Self selected
 
 **Seniority ranges** - The contributors present a budget based on their seniority within the provided focus area budget range. E.g. The development focus area could have a $35,000 (junior) to $50,000 (senior) budget range for a 6 month term.
 
@@ -67,7 +69,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 
 
-## **Work:** Term based vs Full time
+### **Work:** Term based vs Full time
 
 **Term based work** - A contributor could be funded for a fixed term, such as 6 months.
 
@@ -92,7 +94,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 
 
-## Summary
+### Summary
 
 * Focus areas - Contributors should have a focus area so that there are better assurances that there will always be enough skills available for each core part of the ecosystem.
 * Budget ranges - Focus areas should include budget ranges that represent junior to senior experience levels that will help guide candidates when making a proposal to become a funded contributor.

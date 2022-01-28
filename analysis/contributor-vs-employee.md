@@ -14,7 +14,7 @@ description: >-
 * **Time commitment** - Mostly full time (\~37.5 to 45 hours per week). Sometimes part time.
 * **Holidays** - Ranges from fixed amount provided to unlimited holiday (self selected amount).
 * **Work flexibility** - Ranges from fully flexible to time range specific (e.g. 9am until 5pm)
-* **Work location** - Remote or in person at an office.
+* **Work location** - Remote or locally in an office.
 * **Work colleagues** - Mostly interact with direct team that employee is hired into.
 * **Management** - Ranges from hierarchical to flat management styles.
 * **Governance involvement** - Ranges from no involvement through to high involvement in the decision making process.
@@ -24,23 +24,23 @@ description: >-
 
 ### Contributor
 
-* **Role** - Contributors select between specific [focus areas](../contributor/focus-areas/) however their time can be allocated anywhere that creates impact.
-* **Compensation** - Term based payment (e.g. 3, 6, 12, 24 months). Could include bonuses based on impact provided. Lots to explore on different approaches!
-* **Barriers to entry** - Part time contribution can have low to no barriers to entry, full time contribution requires election by community.
-* **Time commitment** - Part time contributor can provide as little or as much time as preferred. To be a full time contributors a higher time commitment is expected but not moderated - results are based on impact produced not time input.
-* **Holidays** - Unlimited holidays applies to any contributor. Full time contributors are assessed based on their overall impact rather than measuring time input.
+* **Role** - Contributors select a [focus area](../contributor/focus-areas/) however their time can be allocated anywhere that creates the most impact.
+* **Compensation** - Term based payment (e.g. 3, 6, 12, 24 months). Could include bonuses based on impact provided. Other compensation approaches will need to be explored!
+* **Barriers to entry** - Part time contribution would have a low to no barrier to entry, full time contribution would require election by community.
+* **Time commitment** - Part time contributor can provide as little or as much time as preferred. To be a full time contributor a higher time commitment is expected. Time commitment is not tracked, objective remains to be producing maximum impact instead of their time input.
+* **Holidays** - Unlimited holidays applies to any contributor. Full time contributors are assessed based on their overall impact rather than recording their time input.
 * **Work flexibility** - Fully flexible, all contributors self determine time allocation.
-* **Work location** - Remote, contributors welcomed to organise in person meet ups.
-* **Work colleagues** - Interact with other contributors regularly but also everyone in wider community.
+* **Work location** - Remote, contributors are welcome to organise in person meet ups.
+* **Work colleagues** - Interact with other contributors and the wider community regularly.
 * **Management** - Self managed along with usage of democratic community governance.
-* **Governance involvement** - Part time contributors can have optional involvement. Full time contributors expected to have high involvement in governance decisions.
-* **Ownership** - Community owned often through token ownership. Some future ownership structures could use single person identity over token based ownership models.
+* **Governance involvement** - Part time contributors can have optional involvement. Full time contributors would be expected to have high involvement in governance planning and decisions.
+* **Ownership** - Community owned often through token ownership. Future ownership structures will be considered and could use single person identity over token based ownership models.
 
 
 
 ### The future of work
 
-Decentralized ecosystems with a focus on community, shared ownership and distributed governance provide a perfect environment for a new contributor based approach for helping people find and work on things that have more meaning to them. Becoming a contributor provides anyone the opportunity for a more flexible, enjoyable, adjustable and high impact alternative to becoming an employee at a centralised company.
+Decentralized ecosystems with a focus on community, shared ownership and distributed governance provide a perfect environment for a new contributor based approach for helping people find and work on things that have more meaning to them. Becoming a contributor provides anyone the opportunity for a more flexible, enjoyable, adjustable and high impact alternative to becoming an employee in existing top down controlled company structures.
 
 
 
@@ -59,7 +59,7 @@ Decentralized ecosystems with a focus on community, shared ownership and distrib
 
 **Adjustable time commitment** - Contributors can commit as much or as little time as they want to any ecosystem meaning they get to create impact exactly as they want to.
 
-* If a contributor wants to spend all their time supporting on ecosystem they can be a full time contributor. If they want to work in multiple ecosystems they can find part time tasks in roles so they can work in multiple areas. The choice is fully up to the contributor and their work preferences.
+* If a contributor wants to spend all their time supporting an ecosystem they can be a full time contributor. If they want to work in multiple ecosystems they can find part time tasks and roles so they can work in multiple areas. The choice is fully up to the contributor based on their exact preferences.
 * Contributors are able to step back and disengage when they need to for holiday or any other reason. If a contributor needs extended time off they can finish any agreed full time contributor term and then step back. Other ways to pause any existing obligations can also be considered when implementing a contributor model - any approach is up to each ecosystem community on what makes sense.
 
 
@@ -70,13 +70,13 @@ Decentralized ecosystems with a focus on community, shared ownership and distrib
 
 ****
 
-**Higher impact -** Contributors have the ability to make massive changes and impact by participating and supporting a distributed community governance process.
+**Higher impact -** Contributors have the ability to make massive changes and impact by participating in a distributed community governance process.
 
-* A contributor would be able to have far more influence and impact than an employee when management structure blockers are removed and they are able to be involved in distributed community governance processes.
+* A contributor would be able to have far more influence and impact than an employee when management structure blockers are removed and they are able to be involved in a more democratic community governance process.
 
 ****
 
-**Better compensated** - Contributors can be highly rewarded with bonus compensation when they make high impact in an ecosystem.
+**Better compensated** - Contributors can be highly rewarded with bonus compensation when they make high impact within an ecosystem.
 
-* Community governed bonuses can offer a more effective way to better align incentives around impact over top down employee compensation structures. Instead of shareholders and owners being overly compensated the contributors would instead receive increased compensation based upon their impact. Under this model every contributor is treated equally and has equal opportunity to create impact.
-* A bonus compensation structure to incentivise high impact is an idea not yet established and would need plenty of review and structure. Incentive structures would likely constantly evolve to find the perfect balance of rewarding all high impact contributors with a fair rate.
+* Community governed bonuses can offer a more effective way to better align incentives around impact instead of top down employee compensation structures. Instead of shareholders and owners being overly compensated the contributors would instead receive increased compensation based upon their impact. Under this model every contributor is treated equally and has equal opportunity to create the most impact.
+* A bonus compensation structure to incentivise high impact is an idea not yet established and would need plenty of review and processes in place. Incentive structures would likely constantly evolve to find the perfect balance of rewarding all high impact contributors with a fair rate against the value that they provided.

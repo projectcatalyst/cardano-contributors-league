@@ -6,7 +6,7 @@ description: >-
 
 # Responsibilities
 
-## Combined responsibility
+### Combined responsibility
 
 A team of contributors should be able to cover the following combined areas of responsibility to support the growth and evolution of the Catalyst ecosystem.
 
@@ -26,7 +26,7 @@ A team of contributors should be able to cover the following combined areas of r
 
 
 
-## Focus areas
+### Focus areas
 
 [Focus areas](focus-areas/) help group together related skills and tasks. Contributors select a focus area so that the ecosystem has better guarantees it has the needed diversity of talent for the ecosystem.
 
@@ -34,7 +34,7 @@ The aggregate of the [focus areas](focus-areas/) bring in the required talent to
 
 
 
-## Shared tasks
+### Shared tasks
 
 Focus areas help to group similar skilled tasks together so people can be incentivised for the skill and type of work they will mostly be performing.
 
