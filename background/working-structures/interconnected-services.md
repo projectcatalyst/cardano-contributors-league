@@ -14,7 +14,7 @@ A number of factors need to be considered when thinking about how interconnected
 
 **Breaking changes**
 
-Services that rely on surrounding services to function correctly creates a risk of breaking changes caused by another service being updated. This risk results in a constant need effective communication.
+Services that rely on surrounding services to function correctly create a risk of breaking changes caused by another service being updated. This risk results in a constant need effective communication.
 
 
 
@@ -32,7 +32,9 @@ Complexity of implementation is a concern for interconnected services. If each s
 
 **Different user experiences**
 
-Considerations are needed for interconnected services stay aligned on creating a high quality user experience. If services run independently there is a risk that they provide a user experience that does not match what is provided elsewhere. These differences could lead to confusion and a product becomes harder to use.
+Considerations are needed for interconnected services to stay aligned on creating a high quality user experience. If services run independently there is a risk that they provide a user experience that does not match what is provided elsewhere. These differences could lead to confusion and a product that becomes harder to use.
+
+
 
 **Collaboration**
 
@@ -42,13 +44,13 @@ The need for collaboration between interconnected service teams is high as how t
 
 **Governance**
 
-Each interconnected service needs well a breadth of ideas and knowledge from well informed participants to make better decisions about how to improve each service. If governance is siloed to less people working independently there is a risk of decreasing the shared knowledge that is needed to make well informed governance decisions.
+Each interconnected service needs a breadth of ideas and knowledge from well informed participants to make better decisions about how to improve each service. If governance is siloed with less people working independently there is a risk of decreasing the shared knowledge that is needed to make well informed governance decisions.
 
 
 
 **Funding**
 
-How interconnected services are funded is important for the effectiveness of how they collaborate and work together. If the funding gain of one service meant the loss for another this risks creating a bad environment for collaboration between services. Interconnected services require deep collaboration to be most effective so how they are funded is of high importance to fully align incentives.
+How interconnected services are funded is important for the effectiveness of how they collaborate and work together. If the funding gain of one service meant the loss for another there is a risk of creating a bad environment for collaboration between services. Interconnected services require deep collaboration to be most effective so how they are funded is of high importance.
 
 
 
@@ -56,5 +58,5 @@ How interconnected services are funded is important for the effectiveness of how
 
 * Project Catalyst has a number of interconnected services that represent the wider product experience.
 * Interconnected services and not independent and rely on each other for data and integrations.
-* Interconnected services will function best in an environment that supports high collaboration, non competitive funding and shared governance oversight. The best possible environment is vital for success due the dependence that services have on each other.
-* The more efficient and effortless it is for interconnected services to work together the more funding from the Cardano treasury that can be allocated to new innovation to drive the ecosystem forward.
+* Interconnected services will function best in an environment that supports high collaboration, non competitive funding and shared governance oversight. The best possible environment is vital for success due the dependence that each service has on others.
+* The more efficient and effortless it is for interconnected services to work together the more that funding from the Cardano treasury can be allocated to new innovations that drive the ecosystem forward.

@@ -20,10 +20,10 @@ A number of core services exist in Catalyst that make the governance of the trea
 2. **Refine proposals** - Proposers are able to edit and refine their proposals based upon any feedback received or general improvements they want to make.
 3. **Finalize proposals** - Proposers make any final changes to their proposals before they are submitted as a final version.
 4. **Assess proposals** - Community advisors assess the proposals based on their impact, feasibility and auditability attaching a score and any reasoning.
-5. **Review proposal assessments** - Veteran community advisors review the assessments made to filter out any that don't follow the guidelines.
-6. **Voting** - Cardano community who have registered their wallets vote on the proposals they want to see funded. Voters can also down vote or abstain from voting on any proposal.
-7. **Tallying votes** - The votes get tallied to find out which proposals have been funded.
-8. **Rewarding** - Proposals with the most upvotes start receiving funding on a monthly basis. Currently upvotes totals mean the total ADA used as voting power.
+5. **Review proposal assessments** - Veteran community advisors review the assessments made to filter out any that don't follow the guidelines and rate the remaining assessments either good or excellent.
+6. **Voting** - Cardano community members who have registered their wallets vote on the proposals they want to see funded. Voters can also down vote or abstain from voting on any proposal.
+7. **Tallying votes** - The votes get tallied to find out which proposals have been funded. Currently the totals are calculated from the total ADA held in the registered wallets where each ADA represents a single point of voting power. Any upvote or downvote uses the full amount of the wallets total ADA for the voting decision.
+8. **Rewarding** - Proposals with the most upvotes start receiving funding on a monthly basis.&#x20;
 9. **Reporting** - Proposers submit progress and KPI reports to highlight progress being made. Reporting is a requirement for proposers to continue to receive funding each month.
 
 
@@ -34,7 +34,7 @@ A number of core services exist in Catalyst that make the governance of the trea
 
 ### Secondary Services
 
-The following services add value to the Catalyst process however are secondary. No one is required to use or be involved in these services. Often they may be encouraged and recommended for usage to the different types of user. In future iterations secondary services could become core to the overall product if they become a required service.
+The following services add value to the Catalyst process however are secondary to the user flow. No one is required to use or be involved in these services. Often they may be encouraged and recommended for usage to the different types of user. In future iterations secondary services could become core to the overall product if they become a required service.
 
 
 

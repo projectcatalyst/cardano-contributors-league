@@ -18,7 +18,7 @@ Organisations have areas of competition which are beneficial and areas that prod
 * **Design** - Design ideas, style guides, wireframes, final designs, logo and brand assets
 * **Product** - Product ideas and planning, user research, user experience flows, experience feedback analysis
 * **Innovation** - Novel product, protocol design or implementation approaches
-* **Application** - Information about organisation and product, delivery of product services
+* **Application** - Information about organisation and product, implementation of different services
 * **Recruitment** - Finding potential contributors and onboarding contributors
 * **Finances** - Payments to contributors, infrastructure and taxes
 * **Marketing** - Adoption efforts, marketing planning, recording data on product and marketing efforts, analysis of any analytic data
@@ -37,11 +37,11 @@ Organisations have areas of competition which are beneficial and areas that prod
 
 **Non beneficial areas for competition**
 
-* **Contributors** - It is beneficial for contributors to collaboratively propose, analyse and come to consensus on the best ideas and approaches of a given problem based upon the shared skills and knowledge of each person involved. If contributors are in separate organisations and competing this prevents the sharing of skills and knowledge to optimising this process. Contributors working in silos prevents competition of ideas and thought from each contributors own skills and knowledge. Separating contributors into separate competing teams means analysis and reflections comes after execution rather than increasing collaboration beforehand which produces increased wasted efforts on execution.
+* **Contributors** - It is beneficial for contributors to collaboratively propose, analyse and come to consensus on the best ideas and approaches of a given problem based upon the shared skills and knowledge of each person involved. If contributors are in separate organisations and competing this prevents the sharing of skills and knowledge to optimising this process. Contributors working in silos prevents competition of ideas and thought from each contributors own skills and knowledge. Separating contributors into separate competing teams means analysis and reflections comes after execution which increases wasted efforts on execution.
 * **Design** - There is a high amount of wasteful repeated effort in competing to make multiple copies of style guides, wireframes, final designs, logo and brand assets.
 * **Product** - There is a high amount of wasteful repeated effort in competition for product planning, user research, user experience flows and experience feedback analysis.
-* **Innovation** - Executing on innovation can be time consuming, for scenarios where the innovation is similar between competing teams the result is higher duplicated wasted efforts.&#x20;
-* **Application** - Many parts of an application are informational and utility based which are required but are duplicated efforts that don't add value to the end user.
+* **Innovation** - Executing on innovation can be time consuming, for scenarios where the innovation is a similar approach between competing teams the result is higher duplicated wasted efforts.&#x20;
+* **Application** - Many parts of an application are informational and utility based which although required are still duplicated efforts that don't add value to the end user.
 * **Recruitment** - Competing organisations have less resources when competing to attract in talent. Recruitment is highly time consuming but also high important. Multiple smaller competing teams makes recruitment more time expensive and wasteful in duplicated efforts. &#x20;
 * **Finances** - Any organisation will need to deal with how money flows in and out of the organisation. Competing in this area is low benefit as it produces wasted efforts between multiple organisations having to manage finances separately.
 * **Marketing** - The most expensive area for duplicated efforts is marketing. If there are competing products then each product must spend increased resources on marketing an adoption due to the increased difficulty of adoption caused by competition.
@@ -65,17 +65,17 @@ The [Cardano ecosystem](https://www.cardanocube.io/cardano-ecosystem-interactive
 
 **Drawbacks of competition**
 
-* **Duplicated efforts** - Each DEX will make duplicated effort on the execution of design, product, marketing, legal and application areas that add little benefit as mentioned previously. The differences in the protocol created and anything to do with the core DEX functionality create the largest main benefit in terms of competition.&#x20;
+* **Duplicated efforts** - Each DEX will make duplicated effort on the execution of design, product, marketing, legal and application areas that add little overall benefit as explained above. The differences in the protocol created and anything to do with the core DEX functionality create the largest main benefit in terms of competition.&#x20;
 * **Wasted resources** - Each DEX must spend a moderate to significant amount of time or financial resources to help generate adoption for their DEX over others. More collaboration with fewer DEX applications would have meant fewer resources would be needed to be used in marketing and could instead be focussed on increased innovation or product quality.
 * **DEX failures** - Due to competition there will be a number of the DEX applications that fail due to not being able to attract enough users and liquidity. This wastes the resources invested to create the product but also can lead to loss of funds to people who have invested in these ecosystems.
 * **Closed source code** - Due to the high reward of executing and making a successful DEX product there is decreased incentive for a competing DEX to open source their code in the early stages. This reduces any chance for the benefits of collaboration and feedback.
-* **Lack of collaboration** - Collaborating with other DEX teams can decrease the advantage one team may have over another. Less collaboration reduces ecosystem knowledge sharing as each teams knowledge does not easily to other teams within the ecosystem.&#x20;
+* **Lack of collaboration** - Collaborating with other DEX teams can decrease the advantage one team may have over another. Less collaboration reduces ecosystem knowledge sharing as each teams knowledge does not easily move to other teams within the ecosystem.&#x20;
 
 ****
 
 **Benefits of competition**
 
-* **Innovation diversity** - Coming to consensus on the best approach for new innovation for DEX applications is difficult. The market provides no existing data to prove which approach to any innovations will be optimal. By having competing DEX applications each team and the market can come to quicker conclusions on how to innovate on the technical innovations.
+* **Innovation diversity** - Coming to consensus on the best approach for new innovation for a DEX applications is difficult. The market provides little to no existing data to prove which innovation approach will be optimal. By having competing DEX applications each team and the market can come to quicker conclusions on how to innovate on those technical innovations.
 * **Preventing single point of failure** - Each DEX being operated by different teams helps to reduce the possibility of a single point of failure in the wider DeFi ecosystem for Cardano.&#x20;
 
 
@@ -95,14 +95,14 @@ The Catalyst ecosystem has some differences to other markets such as DEX markets
 
 **Differences with DEX competition**
 
-* **No large execution reward** - The Catalyst project looks to help with the governance of the Cardano treasury. This ecosystem is unlike the DEX market as it does not in the short term require a separate token to manage the ecosystem. At the moment ADA is currently the most suited for usage to vote and govern the usage of the Cardano treasury. In the future this could change if there was strong reason to move away from this approach.
-* **Funding source** - All Catalyst focussed services share the same funding source of the treasury funds. This results in high competition if services are competing with one another from the same source. DEX products due to their potential for high reward attract a multitude of different funding sources for them to execute their products.
+* **No large execution reward** - The Catalyst project looks to help with the governance of the Cardano treasury. This ecosystem is unlike the DEX market as it does not in the short term require a separate token to manage the ecosystem. At the moment ADA is currently the most suited for usage to vote and govern the usage of the Cardano treasury. In the future this could change once there is a good enough reason to move away from this approach.
+* **Funding source** - All Catalyst focussed services share the same funding source from the treasury funds. This results in high competition if services are competing with one another from the same source. DEX products due to their potential for high reward attract a multitude of different funding sources for them to develop their products.
 
 
 
 **Ideal environment**
 
-* **Competition** - Catalyst benefits from competition on the ideas around the product including the design, experience and any innovations on governance. Competition would in most cases be most effective on the same product using AB tests to determine the better solution. In cases where the approach is significantly different the most efficient form of competition would be to use the existing product and make the required changes for the new innovation to host and test its effectiveness.
+* **Competition** - Catalyst benefits from competition on the ideas around the product including the design, experience and any innovations on governance. Competition would in most cases be most effective on the same product using AB tests to determine the better solution. In cases where the approach is significantly different the most efficient form of competition would be to use the existing product and make the required changes for the new innovation and host it separately to test its effectiveness.
 * **Collaboration** - Collaboration is beneficial for most parts of the ecosystem especially around design (style guide, design assets), product (user flows and overall experience, experience analysis) and static parts of the application (information, repeatedly used functionality components).
 * **Economic** - Catalyst can be executed to a higher standard if funding resources are allocated effectively. Higher collaboration and less overall separate organisations for similar competing services will help with reducing the costs around high marketing resource allocation and duplicated costs around legal, recruitment and execution of similar products.
 
@@ -111,5 +111,5 @@ The Catalyst ecosystem has some differences to other markets such as DEX markets
 ### Summary
 
 * **High cost of unnecessary competition** - There were many areas detailed above showing the high cost of competition that concern duplicated efforts around the design, product, application, marketing and legal efforts involved in competing products and separate organisations.
-* **Competition of ideas and innovation** - For innovative products such as Catalyst to thrive it will require an environment that helps to encourage and promote competition of ideas and innovation approaches so that the ecosystem can find optimum solutions to continuously evolve and improve. When comparing new ideas and innovations this should include a clear hypothesis and testing approach for confirming whether a suggested solution will benefit the ecosystem.
-* **Collaboration favoured over competition** - Collaboration in most cases should be preferred to improve the effectiveness of funding allocation for improving the Catalyst ecosystem and prevent duplicating efforts.
+* **Competition of ideas and innovation** - For innovative products such as Catalyst to thrive it will require an environment that helps to encourage and promote competition of ideas and innovation approaches so that the ecosystem can find optimum solutions to continuously evolve and improve. When comparing new ideas and innovations this should include a clear hypothesis and testing approach for confirming whether any given solution is an improved approach to use in the ecosystem.
+* **Collaboration favoured over competition** - Collaboration in most cases should be preferred to improve the effectiveness of funding allocation for improving the Catalyst ecosystem and prevent duplicating efforts and wasting limited resources.
