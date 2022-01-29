@@ -7,9 +7,9 @@ description: >-
 
 # Funding Approaches
 
-## Funding objectives
+## Funding goals
 
-The following are some sensible high level objectives Catalyst would want to achieve from its funding approach.
+The following are some sensible high level goals Catalyst would want to achieve from its funding approach.
 
 * **Impactful** - A key outcome for any funding approach will be that it leads to the best outcomes and creating impact within the ecosystem.
 * **Cost effective** - The funding approach should be cost effective for those seeking funding by ensuring there are minimum admin overheads so they spend more time executing and where possible the approach should helping with preventing duplication and wasted resource allocation to low impact tasks.

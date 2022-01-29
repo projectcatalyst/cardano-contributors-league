@@ -6,15 +6,15 @@ description: >-
 
 # Catalyst Goals
 
-[Project Catalyst](https://cardano.ideascale.com) is focussed on creating solutions to help with the governance of the Cardano treasury. The ecosystem helps with nurturing new innovation and improvements to the wider ecosystem.
+[Project Catalyst](https://cardano.ideascale.com) is focussed on creating solutions that help with the governance of the Cardano treasury. The ecosystem helps with nurturing new innovation and improvements to the wider ecosystem.
 
-There are a number of sensible goals that can be outlined. First are operational goals on how the ecosystem is developed and maintained and the second is working environment goals to help maximise the chances the ecosystem has to attract high quality talent.
+There are a number of sensible goals that can be outlined. First are general goals on how the ecosystem is developed and maintained and the second is working environment goals to help maximise the chances the ecosystem has to attract high quality talent.
 
 
 
-## Operational goals
+## General goals
 
-The better that Project Catalyst can effectively and efficiently govern the treasury for Cardano the more it can deliver on its overall mission to bring new innovation and improvements to the wider Cardano ecosystem. There are a number of sensible high level goals the ecosystem can strive towards so it reaches its potential. This following list is non-exhaustive. Suggestions for additions or improvements are welcomed.
+The better that Project Catalyst can effectively and efficiently govern the treasury for Cardano the more it can deliver on its overall mission to bring new innovation and improvements to the wider Cardano ecosystem. There are a number of sensible high level goals the ecosystem can strive towards so it can reach its potential. This following list is non-exhaustive. Suggestions for additions or improvements are welcomed.
 
 
 
