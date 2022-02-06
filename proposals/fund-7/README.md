@@ -55,6 +55,18 @@ A guide for Catalyst contributor candidate proposals can be found here - [https:
 
 
 
+**Catalyst contributors budget guidelines - What budget should a contributor request?**
+
+Guidance for Catalyst contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/budget-ranges](https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/budget-ranges)
+
+
+
+**Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each focus area?**
+
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/minimum-thresholds](https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/minimum-thresholds)
+
+****
+
 **What is expected from successful candidates?**
 
 * Support the ecosystem - Contributors should focus on returning the highest value to the ecosystem and look to solve the largest problems the community is facing at the time. Those problem areas could include support for improving or creating tools, coordination, resolving governance issues, improving user experience etc.
