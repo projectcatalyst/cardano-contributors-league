@@ -1,5 +1,5 @@
 ---
-description: Overview of the Contributors League
+description: Overview of the Catalyst Contributors
 ---
 
 # Overview
