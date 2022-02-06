@@ -40,6 +40,7 @@
 ## Proposals
 
 * [Fund 7](proposals/fund-7/README.md)
-  * [Budget Allocation](proposals/fund-7/budget-allocation.md)
+  * [Fund 7 - Old proposal](proposals/fund-7/fund-7-old-proposal.md)
   * [Budget Ranges](proposals/fund-7/budget-ranges.md)
   * [Minimum Thresholds](proposals/fund-7/minimum-thresholds.md)
+  * [Budget Allocation](proposals/fund-7/budget-allocation.md)
