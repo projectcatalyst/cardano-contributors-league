@@ -35,7 +35,7 @@ Catalyst Contributors is a community voted group of contributors in the Cardano 
 
 
 
-To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://catalyst-swarm.gitbook.io/cardano-contributors-league/](https://catalyst-swarm.gitbook.io/cardano-contributors-league/)
+To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://catalyst-swarm.gitbook.io/catalyst-contributors/](https://catalyst-swarm.gitbook.io/catalyst-contributors/)
 
 
 
@@ -43,7 +43,7 @@ To read the full background, analysis and current documentation for Catalyst Con
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed but the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](../../background/overview.md) behind how this challenge brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors-league/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/cardano-contributors-league/analysis/contributor-structure)
+The [analysis](../../background/overview.md) behind how this challenge brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
 
 It details the tradeoffs of funding types, the decision to use duration and salary caps and how the challenge total requested budget was decided.
 
@@ -51,7 +51,7 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 
 **Catalyst contributors candidate - What should be included in the proposal?**
 
-A guide for Catalyst contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/cardano-contributors-league/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/cardano-contributors-league/contributor-guides/candidate-proposal-guide)
+A guide for Catalyst contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide)
 
 
 
@@ -90,7 +90,7 @@ A guide for Catalyst contributor candidate proposals can be found here - [https:
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Catalyst contributor candidate proposal - [https://catalyst-swarm.gitbook.io/cardano-contributors-league/contributor-guides/candidate-assessment-guide](https://catalyst-swarm.gitbook.io/cardano-contributors-league/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Catalyst contributor candidate proposal - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-assessment-guide](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-assessment-guide)
 
 
 
