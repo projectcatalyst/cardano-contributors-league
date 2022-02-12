@@ -12,11 +12,11 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 
 
-### Responsibilities: Focus areas vs Full autonomy
+### Responsibilities: Roles vs Full autonomy
 
-**Focus areas** - Contributors specify their professional background, existing contributions and also pick a focus areas (e.g. development, coordination, marketing) where they will spend the majority of their time whilst contributing to the ecosystem.
+**Roles** - Contributors specify their professional background, existing contributions and also pick a roles (e.g. development, coordination, marketing) where they will spend the majority of their time whilst contributing to the ecosystem.
 
-* Provides clarity on where contributors are interested in focussing their time. Contributors can mention a main focus area but could provide support to other areas in the ecosystem.
+* Provides clarity on where contributors are interested in focussing their time. Contributors can mention a main role but could provide support to other areas in the ecosystem.
 * Provides clarity to the community on how the ecosystem functions and what the key areas are in the ecosystem which require the help from contributors.
 
 ****
@@ -31,15 +31,15 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 **Summary**
 
 * Any organisation would suffer from having too many of one type of skill set to manage their ecosystem. Due to this contributors should have an area of focus in the ecosystem.
-* To provide flexibility contributors specifying a focus area can still help in other areas. The contributors main task is to provide maximum impact to the ecosystem which might mean helping in other areas. The contributor should aim to spend the majority of their time in the focus area they specify. Contributors can change their focus area in future funding rounds.
-* The ecosystem will benefit from having a balanced amount of skills within a cohort of contributors. To achieve this a minimum threshold can be applied to each focus area so that the minimum required positions are filled when a cohort of candidates go through the process.
-* A surplus amount can be included in the total budget to allow for flexibility in the type of contributors included in the cohort. As a surplus flexibility example, an entire contributors budget could be $500,000. The minimum focus area thresholds are 4 development, 2 coordination, 1 analysis and 1 product each with a capped salary of $50,000 for 6 months. The surplus in this scenario would be $100,000 meaning at a minimum two contributors could be introduced that have any focus area. Contributors beyond the threshold would be selected based off who received the highest votes after the thresholds were met for each focus area.
+* To provide flexibility contributors specifying a role can still help in other areas. The contributors main task is to provide maximum impact to the ecosystem which might mean helping in other areas. The contributor should aim to spend the majority of their time in the role they specify. Contributors can change their role in future funding rounds.
+* The ecosystem will benefit from having a balanced amount of skills within a cohort of contributors. To achieve this a minimum threshold can be applied to each role so that the minimum required positions are filled when a cohort of candidates go through the process.
+* A surplus amount can be included in the total budget to allow for flexibility in the type of contributors included in the cohort. As a surplus flexibility example, an entire contributors budget could be $500,000. The minimum role thresholds are 4 development, 2 coordination, 1 analysis and 1 product each with a capped salary of $50,000 for 6 months. The surplus in this scenario would be $100,000 meaning at a minimum two contributors could be introduced that have any role. Contributors beyond the threshold would be selected based off who received the highest votes after the thresholds were met for each role.
 
 
 
 ### Budget: Seniority ranges vs Self selected
 
-**Seniority ranges** - The contributors present a budget based on their seniority within the provided focus area budget range. E.g. The development focus area could have a $35,000 (junior) to $50,000 (senior) budget range for a 6 month term.
+**Seniority ranges** - The contributors present a budget based on their seniority within the provided role budget range. E.g. The development role could have a $35,000 (junior) to $50,000 (senior) budget range for a 6 month term.
 
 * Providing budget ranges makes it easy for contributors to assign themselves a suitable budget.
 * Seniority ranges require an ongoing governance process to determine what those budget ranges should be that also consider the other incentives involved for being a contributor (e.g. bonuses due to impact).
@@ -60,7 +60,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 * Seniority budget ranges make it easier for contributors to justify a budget when proposing to be a contributor. There is a moderate chance of a contributor asking for too little or too much without having any budget guidance in place.
 * The risk of deterring highly skilled contributors can be mitigated by using a bonus for impactful contributors. This better aligns incentives as the bonus is paid after that fact that a contributor has provided high impact rather than in a salary which is before any evidence of providing value from their contributions. An impact bonus could turn the contributor role into something far more lucrative that aligns incentives and is mutually beneficial for the community and contributor.
-* A documented governance process will be needed at some stage for setting the focus area budget ranges between funding rounds.&#x20;
+* A documented governance process will be needed at some stage for setting the role budget ranges between funding rounds.&#x20;
 * Beyond the approach of an impact bonus contributors are also welcomed to help with areas such as doing proposal assessments which would increase their total compensation.
 
 
@@ -92,7 +92,7 @@ A contributor is anyone who helps to support, improve or maintain the Cardano ec
 
 ### Summary
 
-* **Focus areas** - Contributors should have a focus area so that there are better assurances that there will always be enough skills available for each core part of the ecosystem.
-* **Budget ranges** - Focus areas should include budget ranges that represent junior to senior experience levels that will help guide candidates when making a proposal to add a sensible budget request.
+* **Roles** - Contributors should have a role so that there are better assurances that there will always be enough skills available for each core part of the ecosystem.
+* **Budget ranges** - Roles should include budget ranges that represent junior to senior experience levels that will help guide candidates when making a proposal to add a sensible budget request.
 * **Impact bonus** - An impact bonus can be explored and introduced in the future to further align incentives for contributors by rewarding those that provide high impact to the ecosystem.
 * **Term based work** - Contributors will initially request a budget for a fixed 6 month term of work.

@@ -1,7 +1,7 @@
 ---
 description: >-
   Details around responsibilities whilst being a full time contributor with a
-  shared tasks breakdown and an overview of the usage of focus areas
+  shared tasks breakdown and an overview of the usage of roles
 ---
 
 # Responsibilities
@@ -26,19 +26,19 @@ A team of contributors should be able to cover the following combined areas of r
 
 
 
-### Focus areas
+### Roles
 
-[Focus areas](focus-areas/) help group together related skills and tasks. Contributors select a focus area so that the ecosystem has better guarantees it has the needed diversity of talent for the ecosystem.
+[Roles](roles/) help group together related skills and tasks. Contributors select a focus area so that the ecosystem has better guarantees it has the needed diversity of talent for the ecosystem.
 
-The aggregate of the [focus areas](focus-areas/) bring in the required talent to cover the responsibilities detailed above.
+The aggregate of the [roles](roles/) bring in the required talent to cover the responsibilities detailed above.
 
 
 
 ### Shared tasks
 
-Focus areas help to group similar skilled tasks together so people can be incentivised for the skill and type of work they will mostly be performing.
+Roles help to group similar skilled tasks together so people can be incentivised for the skill and type of work they will mostly be performing.
 
-More generally contributors are incentivised help to ensure the Catalyst ecosystem is performing to its highest potential. The following is a list of impactful tasks to help achieve this and can be performed by any contributor regardless of their chosen focus area.
+More generally contributors are incentivised help to ensure the Catalyst ecosystem is performing to its highest potential. The following is a list of impactful tasks to help achieve this and can be performed by any contributor regardless of their chosen role.
 
 
 

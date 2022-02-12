@@ -1,22 +1,22 @@
 ---
 description: >-
-  Focus areas are groupings of a particular type of work that someone can choose
-  to focus their time on whilst being a contributor
+  Roles are groupings of a particular type of work that someone can choose to
+  focus their time on whilst being a contributor
 ---
 
-# Focus Areas
+# Roles
 
-Focus areas provide clarity to contributors and the wider community by letting everyone else know what area the contributor intends to help with when they contribute to improving the Catalyst ecosystem. Voters get clarity when voting as they will know who they want to fill certain roles within the ecosystem.
+Roles provide clarity to contributors and the wider community by letting everyone else know what area the contributor intends to help with when they contribute to improving the Catalyst ecosystem. Voters get clarity when voting as they will know who they want to fill certain roles within the ecosystem.
 
-Contributors select a focus area to indicate where they will spend the most time supporting the ecosystem. Selecting a focus area does not mean the contributor can't help in the other areas. It instead simply means they will look to spend the majority of their time in that selected focus area.
+Contributors select a role to indicate where they will spend the most time supporting the ecosystem. Selecting a role does not mean the contributor can't help in the other areas. It instead simply means they will look to spend the majority of their time in that selected role.
 
 For each given funding round [budget ranges](budget-ranges.md) and [minimum thresholds](minimum-thresholds.md) are added to guide contributors making a good proposal and to ensure there's enough of each skill set in each contributor cohort.
 
 
 
-## Selected focus areas
+## Selected roles
 
-The following are the initial focus areas for contributors to select from. Other future considerations are discussed below in the [future potential focus areas](./#others-areas-to-consider).
+The following are the initial roles for contributors to select from. Other future considerations are discussed below in the [future potential roles](./#others-areas-to-consider).
 
 ****
 
@@ -148,15 +148,15 @@ The following are the initial focus areas for contributors to select from. Other
 
 
 
-## Potential future focus **areas**
+## Potential future roles
 
-The following are other options to consider that could become focus areas in the future.&#x20;
+The following are other options to consider that could become roles in the future.&#x20;
 
 ****
 
 **Education**
 
-Many of the existing focus areas can support the education of the core ecosystem. Those tasks include writing documentation relevant to what each contributor is working on and also hosting meetings with other contributors and the wider community. Coordination, design, product and marketing focus areas are well suited for helping create visual education aids to support education. If there is difficulty maintaining ecosystem educational resources a group of full time education contributors could be considered that would solely focus on educational materials, sessions and generally supporting the community.
+Many of the existing roles can support the education of the core ecosystem. Those tasks include writing documentation relevant to what each contributor is working on and also hosting meetings with other contributors and the wider community. Coordination, design, product and marketing roles are well suited for helping create visual education aids to support education. If there is difficulty maintaining ecosystem educational resources a group of full time education contributors could be considered that would solely focus on educational materials, sessions and generally supporting the community.
 
 ****
 
@@ -168,4 +168,4 @@ The role of dealing with who is and isn't a full time contributor will be dealt 
 
 **Finance**
 
-Contributors would be funded directly from the treasury initially in six month terms. This helps makes the initial process need little oversight. However the core ecosystem will have other costs such as server costs or usage of SaaS tools to help the contributors work effectively. Managing these costs could be done through a governance process done by contributors using a shared funding pot. If the complexity of managing a shared funding pot increases over time it will make sense to explore the usage of a finance focus area so that these concerns become better managed.
+Contributors would be funded directly from the treasury initially in six month terms. This helps makes the initial process need little oversight. However the core ecosystem will have other costs such as server costs or usage of SaaS tools to help the contributors work effectively. Managing these costs could be done through a governance process done by contributors using a shared funding pot. If the complexity of managing a shared funding pot increases over time it will make sense to explore the usage of a finance role so that these concerns become better managed.

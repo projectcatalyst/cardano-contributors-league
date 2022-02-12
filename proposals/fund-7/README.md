@@ -61,7 +61,7 @@ Guidance for Catalyst contributors for setting their budget has been researched.
 
 
 
-**Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each focus area?**
+**Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
 Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/minimum-thresholds](https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-7/minimum-thresholds)
 

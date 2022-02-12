@@ -2,7 +2,7 @@
 
 ## Suggested 6 month budget ranges
 
-The following are the suggested budget ranges for candidates for fund 7 based upon the research on similar roles for each focus area. Candidates should pick a focus area and then apply their experience and seniority to find a suitable budget to request in their proposals.
+The following are the suggested budget ranges for candidates for fund 7 based upon the research on similar roles for each role. Candidates should pick a role and then apply their experience and seniority to find a suitable budget to request in their proposals.
 
 
 
@@ -32,13 +32,13 @@ _**Important note**_ - The budget ranges are provided as guidance. Contributor c
 
 **Initial budget range selection**
 
-The initial budget range selection above was achieved by looking at the data sources below to guide find some rough sensible ranges to provide as guidance. The budget ranges are a rough guideline and something that can be improved over time with better analysis and community involvement. The budget range is guidance and not strict as we do not fully understand the focus areas and how they will pan out in reality. It is also a first iteration where more community governance and data for the budget range is needed for it to become a more important part in the process.
+The initial budget range selection above was achieved by looking at the data sources below to guide find some rough sensible ranges to provide as guidance. The budget ranges are a rough guideline and something that can be improved over time with better analysis and community involvement. The budget range is guidance and not strict as we do not fully understand the roles and how they will pan out in reality. It is also a first iteration where more community governance and data for the budget range is needed for it to become a more important part in the process.
 
 
 
-**Focus area tasks and responsibilities**
+**Role tasks and responsibilities**
 
-Initial focus areas have been provided that list out a set of tasks that the contributor would expect to help with if they were voted to be a contributor. Due to the infancy of this process it is hard to know how these tasks and responsibilities will look after it becomes more clear what the responsibilities of the contributors become. Experience performing these roles from contributors will lead to a more solid understanding of what it entails and which tasks are the most difficult and which ones provide the highest impact. Focus areas may get separated in future iterations.
+Initial roles have been provided that list out a set of tasks that the contributor would expect to help with if they were voted to be a contributor. Due to the infancy of this process it is hard to know how these tasks and responsibilities will look after it becomes more clear what the responsibilities of the contributors become. Experience performing these roles from contributors will lead to a more solid understanding of what it entails and which tasks are the most difficult and which ones provide the highest impact. Roles may get separated in future iterations.
 
 
 
@@ -50,7 +50,7 @@ For simplicity the United States has been used as a market for salary data. This
 
 **Community feedback**
 
-In future rounds the community will ideally vote on the definitions of focus areas and market data sources that are used for determining the budget ranges. Another area for community governance will be values for any other incentivisation method such as an impact bonus. Another area for consideration is that with more data and analysis the community may want to be more strict on the budget ranges rather than using them as just guidance. This will come down to comparing priorities such as making the process simple or optimising the right incentives.
+In future rounds the community will ideally vote on the definitions of roles and market data sources that are used for determining the budget ranges. Another area for community governance will be values for any other incentivisation method such as an impact bonus. Another area for consideration is that with more data and analysis the community may want to be more strict on the budget ranges rather than using them as just guidance. This will come down to comparing priorities such as making the process simple or optimising the right incentives.
 
 
 

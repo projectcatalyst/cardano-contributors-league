@@ -7,15 +7,15 @@ description: >-
 
 # Example Candidate Proposal
 
-### **Focus area**
+### Role
 
-**My main focus area** - Development. I have worked as a developer over my career across different teams and companies. Through that experience I have taken user defined problems through to end solutions and have regularly helped taking problems from data modelling through to final implementation.&#x20;
+**My main role** - Development. I have worked as a developer over my career across different teams and companies. Through that experience I have taken user defined problems through to end solutions and have regularly helped taking problems from data modelling through to final implementation.&#x20;
 
 My developer background was in frontend development (Github provided below). I intend to spent most of my time supporting in this area and helping to turn user flows and designs into frontend implementations that support the ongoing development of the prioritised Catalyst features.
 
 As part of my role I would expect to be communicating with product contributors, community members and end users on a regular basis to pull together all the information and feedback needed to create the best experience possible for the community.
 
-**Focus areas I may also support**
+**Roles I may also support**
 
 1. Product - I have worked in a number of startups which meant I was closely involved with taking problems through to implementation and have a sufficient level of experience of prioritising problems and helping support team decisions for making the right solutions.
 

@@ -18,9 +18,9 @@ Some key issues were identified with funding contributors as a funding approach 
 
 ### **Solutions**
 
-**Usage of focus areas and minimum thresholds**
+**Usage of roles and minimum thresholds**
 
-[Focus areas](../contributor/focus-areas/) such as development, coordination, analysis, product and design are used help with clarity for voters other contributors. Contributors can define a focus area so that it is clear where they intend to be focussing the majority of their time whilst contributing in the ecosystem. This can be mixed with having minimum thresholds for certain focus areas so there is enough capacity in each areas for the cohort to function effectively and support the ecosystem.
+[Roles](../contributor/roles/) such as development, coordination, analysis, product and design are used help with clarity for voters other contributors. Contributors can define a role so that it is clear where they intend to be focussing the majority of their time whilst contributing in the ecosystem. This can be mixed with having minimum thresholds for certain roles so there is enough capacity in each areas for the cohort to function effectively and support the ecosystem.
 
 ****
 

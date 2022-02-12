@@ -5,9 +5,9 @@
 ## Contributor
 
 * [Responsibilities](contributor/responsibilities.md)
-* [Focus Areas](contributor/focus-areas/README.md)
-  * [Budget Ranges](contributor/focus-areas/budget-ranges.md)
-  * [Minimum Thresholds](contributor/focus-areas/minimum-thresholds.md)
+* [Roles](contributor/roles/README.md)
+  * [Budget Ranges](contributor/roles/budget-ranges.md)
+  * [Minimum Thresholds](contributor/roles/minimum-thresholds.md)
 
 ## Contributor Guides
 
