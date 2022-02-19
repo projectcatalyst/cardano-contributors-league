@@ -25,6 +25,18 @@
 * [Contributor Structure](analysis/contributor-structure.md)
 * [Contributor Future Improvements](analysis/contributor-future-improvements.md)
 
+## Category Proposal
+
+* [Fund 8](category-proposal/fund-8/README.md)
+  * [Budget Ranges](category-proposal/fund-8/budget-ranges.md)
+  * [Minimum Thresholds](category-proposal/fund-8/minimum-thresholds.md)
+  * [Budget Allocation](category-proposal/fund-8/budget-allocation.md)
+* [Fund 7](category-proposal/fund-7/README.md)
+  * [Fund 7 - Old proposal](category-proposal/fund-7/fund-7-old-proposal.md)
+  * [Budget Ranges](category-proposal/fund-7/budget-ranges.md)
+  * [Minimum Thresholds](category-proposal/fund-7/minimum-thresholds.md)
+  * [Budget Allocation](category-proposal/fund-7/budget-allocation.md)
+
 ## Background
 
 * [Overview](background/overview.md)
@@ -36,11 +48,3 @@
   * [Product Development Workflow](background/product-development-workflow.md)
   * [Costs Of Competition](background/working-structures/costs-of-competition.md)
 * [Governance Processes](background/governance-processes.md)
-
-## Proposals
-
-* [Fund 7](proposals/fund-7/README.md)
-  * [Fund 7 - Old proposal](proposals/fund-7/fund-7-old-proposal.md)
-  * [Budget Ranges](proposals/fund-7/budget-ranges.md)
-  * [Minimum Thresholds](proposals/fund-7/minimum-thresholds.md)
-  * [Budget Allocation](proposals/fund-7/budget-allocation.md)
