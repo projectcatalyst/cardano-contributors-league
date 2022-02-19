@@ -37,6 +37,10 @@
   * [Minimum Thresholds](category-proposal/fund-7/minimum-thresholds.md)
   * [Budget Allocation](category-proposal/fund-7/budget-allocation.md)
 
+## Research
+
+* [Average Salaries](research/average-salaries.md)
+
 ## Background
 
 * [Overview](background/overview.md)
