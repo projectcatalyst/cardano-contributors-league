@@ -49,6 +49,13 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 
 
 
+**What roles can I apply for?**
+
+* **Roles** - Development, Coordination, Analysis, QA & Auditing, Marketing, Product and Design
+* **Role details** - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor/roles](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor/roles)
+
+
+
 **Catalyst contributors candidate - What should be included in the proposal?**
 
 A guide for Catalyst contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide)
