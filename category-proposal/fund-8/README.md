@@ -22,12 +22,14 @@ Catalyst community members solving important problems are funded so they can con
 
 **Key Metrics to measure**
 
-The key metrics to measure for Catalyst contributors would include:
+Tracking success for this category will mean:
 
-* Number of contributions (Code commits, events organised, coordination support between teams, documentation improvements)
-* Community support (Conversations with and contributions to new and existing projects and community members)
+* Number of contributions to support Catalyst (Code commits, events organised, coordination support between teams, documentation improvements etc)
+* Community support (Conversations with existing projects and community members and any contributions that help support them)
 
-****
+
+
+Part of tracking success for contributors will include improving the reporting and understanding of what a given contributor has worked on to support the ecosystem whilst they have been funded. Reporting will be a requirement for contributors however the tools that are used to log and present that data will evolve over time so that the community can easily track what is happening within the contributor community.
 
 ### **Category brief**
 
