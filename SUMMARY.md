@@ -30,7 +30,6 @@
 * [Fund 8](category-proposal/fund-8/README.md)
   * [Budget Ranges](category-proposal/fund-8/budget-ranges.md)
   * [Minimum Thresholds](category-proposal/fund-8/minimum-thresholds.md)
-  * [Budget Allocation](category-proposal/fund-8/budget-allocation.md)
 * [Fund 7](category-proposal/fund-7/README.md)
   * [Fund 7 - Old proposal](category-proposal/fund-7/fund-7-old-proposal.md)
   * [Budget Ranges](category-proposal/fund-7/budget-ranges.md)
