@@ -19,12 +19,6 @@
 
 * [Catalyst Contributor Treasury](treasury/catalyst-contributor-treasury.md)
 
-## Analysis
-
-* [Contributor vs Employee](analysis/contributor-vs-employee.md)
-* [Contributor Structure](analysis/contributor-structure.md)
-* [Contributor Future Improvements](analysis/contributor-future-improvements.md)
-
 ## Category Proposal
 
 * [Fund 8](category-proposal/fund-8/README.md)
@@ -36,18 +30,6 @@
   * [Minimum Thresholds](category-proposal/fund-7/minimum-thresholds.md)
   * [Budget Allocation](category-proposal/fund-7/budget-allocation.md)
 
-## Research
+***
 
-* [Average Salaries](research/average-salaries.md)
-
-## Background
-
-* [Overview](background/overview.md)
-* [Catalyst Goals](background/catalyst-goals.md)
-* [Catalyst Product](background/catalyst-ecosystem-goals.md)
-* [Funding Approaches](background/funding-approaches.md)
-* [Working Structures](background/working-structures/README.md)
-  * [Interconnected Services](background/working-structures/interconnected-services.md)
-  * [Product Development Workflow](background/product-development-workflow.md)
-  * [Costs Of Competition](background/working-structures/costs-of-competition.md)
-* [Governance Processes](background/governance-processes.md)
+* [Contributor Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)

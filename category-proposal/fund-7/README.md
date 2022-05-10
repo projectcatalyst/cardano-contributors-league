@@ -43,7 +43,7 @@ To read the full background, analysis and current documentation for Catalyst Con
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed but the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](../../background/overview.md) behind how this challenge brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
+The [analysis](broken-reference) behind how this challenge brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
 
 It details the tradeoffs of funding types, the decision to use duration and salary caps and how the challenge total requested budget was decided.
 

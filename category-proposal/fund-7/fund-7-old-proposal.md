@@ -2,7 +2,7 @@
 description: Challenge setting proposal for fund 8
 ---
 
-# Fund 7
+# Fund 7 - Old proposal
 
 **Challenge Title**
 
@@ -37,7 +37,7 @@ Cardano Contributors League is a community voted for group of funded contributor
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed but the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](../../background/overview.md) behind how this challenge brief was constructed can be found here and details the tradeoffs of funding types, the decision to use duration and salary caps and how the challenge total requested budget was decided
+The [analysis](broken-reference) behind how this challenge brief was constructed can be found here and details the tradeoffs of funding types, the decision to use duration and salary caps and how the challenge total requested budget was decided
 
 
 

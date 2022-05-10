@@ -28,7 +28,7 @@ _**Important note**_ - The budget ranges are provided as guidance. Contributor c
 
 ## Analysis
 
-Please refer to the [average salaries](../../research/average-salaries.md) research conducted to get the data used for the budget ranges.
+Please refer to the [average salaries](broken-reference) research conducted to get the data used for the budget ranges.
 
 
 

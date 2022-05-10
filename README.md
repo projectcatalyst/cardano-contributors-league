@@ -21,6 +21,4 @@ A key objective for the Catalyst Contributors is to help create the best environ
 * [**Contributor**](broken-reference) - Find out about what would be expected from a Catalyst contributor.
 * ****[**Contributor Guides**](broken-reference) - Guides on how to create a proposal as a contributor candidate and also how to assess candidate proposals.
 * ****[**Treasury**](broken-reference) - Details of how full time contributors would manage a Catalyst focussed treasury that would be used for rapid funding that supports the ecosystem.
-* [**Analysis**](broken-reference) - Break down of the contributor structure, analysis on differences between contributors and employees and thoughts towards future improvements.
-* [**Background**](broken-reference) - A background into the ecosystem and funding approaches, working structures and governance processes that led to the need to fund contributors as a step forward for the ecosystem.&#x20;
-* [**Proposals**](broken-reference) - List of all challenge setting proposals created for hiring contributors in the ecosystem.&#x20;
+* [**Category Proposals**](broken-reference) - List of all challenge setting proposals created for hiring contributors in the ecosystem.&#x20;
