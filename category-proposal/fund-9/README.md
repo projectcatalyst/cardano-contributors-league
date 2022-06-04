@@ -4,6 +4,8 @@ description: Catalyst Contributors category proposal
 
 # Fund 9
 
+![](../../.gitbook/assets/catalyst-contributors-banner.png)
+
 **Category Title**
 
 Catalyst Contributors

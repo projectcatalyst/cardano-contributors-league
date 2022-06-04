@@ -45,7 +45,7 @@ As part of my role I would expect to be communicating with product contributors,
 
 **Catalyst roles** - I have been a community advisor twice, during fund 5 and fund 6. I was also veteran community advisor for fund 6.&#x20;
 
-**Development** - I developed the contributors list available at [projectcatalyst.org](https://projectcatalyst.org) which was an initial attempt to help bring the community together and increase collaboration by letting people find others based on services or skills they can offer.&#x20;
+**Development** - I developed the contributors list available at [projectcatalyst.org](https://projectcatalyst.org/) which was an initial attempt to help bring the community together and increase collaboration by letting people find others based on services or skills they can offer.&#x20;
 
 **Coordination** - I have hosted over 5 after town hall sessions discussing issues surrounding Catalyst and looked for feedback on ways to resolve them, these conversations helped lead to changes and improvements to the Catalyst ecosystem. You can find some of those conversations on the Catalyst Swarm Youtube recordings.
 
