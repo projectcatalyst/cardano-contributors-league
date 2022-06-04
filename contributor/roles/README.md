@@ -97,7 +97,8 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Share and promote ecosystem solutions
+* Effectively promote and share the ecosystem
+* Support with proposer outreach and engagement
 * Support marketing focussed proposals
 * Aggregate and report on marketing analytics data
 * Support the creation of design marketing materials
