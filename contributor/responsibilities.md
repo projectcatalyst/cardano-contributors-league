@@ -1,7 +1,7 @@
 ---
 description: >-
   Details around responsibilities of a full time contributor with a breakdown of
-  the shared tasks and a overview of the roles
+  the shared tasks
 ---
 
 # Responsibilities
