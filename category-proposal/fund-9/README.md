@@ -74,7 +74,7 @@ Budget range guidance for Catalyst contributors were defined using research on t
 
 **Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds)
+Minimum thresholds have been added to make sure the right amount of each skill set is selected in each cohort of contributors. The minimum thresholds for this fund can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/minimum-thresholds)
 
 
 
