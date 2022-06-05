@@ -68,7 +68,7 @@ A guide for Catalyst contributor candidate proposals can be found here - [https:
 
 **Catalyst contributors budget guidelines - What budget should a contributor request?**
 
-Budget range guidance for Catalyst contributors has been created using research on the average salaries of different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Catalyst contributors can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/budget-ranges](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/budget-ranges)
+Budget range guidance for Catalyst contributors were defined using research on the average salaries for different roles. Candidates are not forced to follow the guidance provided. The suggested budget ranges for Catalyst contributors can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/budget-ranges](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-9/budget-ranges)
 
 
 
