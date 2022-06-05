@@ -10,7 +10,7 @@ Roles provide clarity to contributors and the wider community by letting everyon
 
 Contributors select a role to indicate where they will spend the most time supporting the ecosystem. Selecting a role does not mean the contributor can't help in the other areas. It instead simply means they will look to spend the majority of their time in that selected role.
 
-For each given funding round [budget ranges](budget-ranges.md) and [minimum thresholds](minimum-thresholds.md) are added to guide contributors making a good proposal and to ensure there's enough of each skill set in each contributor cohort.
+[Budget ranges](budget-ranges.md) and [minimum thresholds](minimum-thresholds.md) are added to guide contributors when creating their proposals. The minimum thresholds help to ensure there's enough of each role and skill set in each contributor cohort.
 
 
 
