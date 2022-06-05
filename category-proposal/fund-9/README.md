@@ -31,7 +31,7 @@ Tracking success for this category will mean:
 
 
 
-Part of tracking success for contributors will be improving the reporting process so it is easy to understand what each contributor worked on to support the ecosystem. Reporting will be a requirement for contributors. The tools that are used to log and present this data will evolve over time so that the community can easily track what is happening within the contributor community.
+Tracking success for contributors will include improving the reporting process so it becomes easy for the community to understand what each contributor is working on to support the ecosystem. Progress reporting is a requirement for contributors. The tools that are used to log and present this reporting data will need to evolve over time so that the community can easily track what is happening within the contributor community.
 
 
 
