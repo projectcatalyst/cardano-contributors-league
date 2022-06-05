@@ -4,15 +4,11 @@ description: Overview of the Catalyst Contributors
 
 # Overview
 
-The Catalyst contributors are a group of community members who help to manage, support and improve the Catalyst ecosystem. The Catalyst ecosystem helps to govern the distribution of the Cardano treasury. Contributors help in a multitude of areas including working on infrastructure and tooling, supporting the community, improving processes or supporting other projects in the ecosystem.
+Catalyst contributors are community members who are paid by the Cardano treasury to work full time to help to manage, support and improve the Catalyst ecosystem. The Catalyst ecosystem governs the distribution of the Cardano treasury. Contributors help in a multitude of areas such as infrastructure and tooling, supporting the community, improving processes and supporting proposals being submitted into the funding process.
 
 
 
 ![](.gitbook/assets/contributors-league-small.png)
-
-A key objective for the Catalyst Contributors is to help create the best environment possible for full time contributors. A good environment will mean maximising the alignment and collaboration between these contributors so they are able to most effectively maximise their impact when working on improving the ecosystem.&#x20;
-
-
 
 {% embed url="https://www.youtube.com/embed/_wo8yXrX9oM" %}
 

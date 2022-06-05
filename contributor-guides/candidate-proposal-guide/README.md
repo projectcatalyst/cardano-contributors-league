@@ -14,7 +14,7 @@ Overview - Candidates are tasked with specifying their selected [role](../../con
 
 
 
-**My main role** - Required. Candidates should specify the [role](../../contributor/roles/) and then also how they would add value.
+**My main role** - Required. Candidates should specify the [role](../../contributor/roles/) and then also how they would add value. Contributors will be spending more than half their time delivering against this roles requirements.
 
 **Roles I may also support** - Optional. Candidates can list out other roles, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other roles and information if they would prefer to keep their full attention on their main role.
 
