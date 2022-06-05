@@ -47,11 +47,9 @@ To read the full background, analysis and current documentation for Catalyst Con
 
 **Why is this category needed?**
 
-There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed but the ecosystem also relies on impactful community contributors. The future of Catalyst funding should also include funding community contributors as well as just ideas.
+There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed. However the ecosystem also relies on impactful community contributors. The future of funding through Catalyst benefits from both funding ideas and full time contributors.
 
 The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-analysis/](https://docs.catalystcontributors.org/contributor-analysis/)
-
-Analysis helps to highlight the tradeoffs of different funding approaches, usage of roles, different employment approaches and considerations towards budget guidance.
 
 
 
