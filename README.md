@@ -10,8 +10,6 @@ Catalyst contributors are community members who are paid by the Cardano treasury
 
 ![](.gitbook/assets/contributors-league-small.png)
 
-{% embed url="https://www.youtube.com/embed/_wo8yXrX9oM" %}
-
 ### Contents
 
 * [**Contributor**](broken-reference) - Find out about what would be expected from a Catalyst contributor.
