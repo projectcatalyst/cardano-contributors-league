@@ -2,7 +2,7 @@
 
 The following assumes an ADA price of $0.50 per ADA. This will likely change in the future. In that event there may be more or less contributors who can be paid to support the ecosystem.
 
-The budget allocation is 1,100,000 ADA which means funding capacity to support between 22 and  9 contributors based on the lower $25,000 (50,000 ADA) and upper $60,000 (120,000 ADA) [budget range guidelines](../fund-7/budget-ranges.md). &#x20;
+The budget allocation is 1,100,000 ADA which means funding capacity to support between 9 and 22 contributors based on the lower $25,000 (50,000 ADA) and upper $60,000 (120,000 ADA) [budget range guidelines](../fund-7/budget-ranges.md). &#x20;
 
 If the average was $40,000 (80,000 ADA) per contributor then this would at least 13 contributors.
 
