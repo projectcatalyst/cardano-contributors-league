@@ -1,8 +1,10 @@
 # Minimum Thresholds
 
-The budget allocation is \[**TBC**] which means funding capacity to support between \[**TBC**] contributors based on the lower ($25,000) and upper ($60,000) [budget range guidelines](../fund-7/budget-ranges.md). &#x20;
+The following assumes an ADA price of $0.50 per ADA. This will likely change in the future. In that event there may be more or less contributors who can be paid to support the ecosystem.
 
-If the average was $40,000 per contributor then this would at least \[**TBC**] contributors.
+The budget allocation is 1,100,000 ADA which means funding capacity to support between 22 and  9 contributors based on the lower $25,000 (50,000 ADA) and upper $60,000 (120,000 ADA) [budget range guidelines](../fund-7/budget-ranges.md). &#x20;
+
+If the average was $40,000 (80,000 ADA) per contributor then this would at least 13 contributors.
 
 After the thresholds are met based on the voting results the highest voted candidates would then be selected until the funding is allocated.
 
@@ -10,21 +12,25 @@ After the thresholds are met based on the voting results the highest voted candi
 
 
 
-**Development**: TBC
+**Development**: 4
 
-**Coordination**: TBC
+**Coordination**: 3
 
-**Analysis**: TBC
+**Analysis**: 1
 
-**Product**: TBC
+**Product**: 1
 
-**QA & Auditing**: TBC
+**QA & Auditing**: 2
 
-**Marketing**: TBC
+**Marketing**: 1
 
-**Design**: TBC
+**Design**: 1
 
-**Total**: TBC
+**Total**: 13
+
+
+
+If the ADA price becomes $1 instead of approximately $0.50 then these thresholds can multiplied by two if they aren't updated before starting the contributor proposal submission process.
 
 
 
