@@ -2,12 +2,12 @@
 
 * [Overview](README.md)
 
-## Contributor
+## Catalyst Contributor
 
-* [Responsibilities](contributor/responsibilities.md)
-* [Roles](contributor/roles/README.md)
-  * [Budget Ranges](contributor/roles/budget-ranges.md)
-  * [Minimum Thresholds](contributor/roles/minimum-thresholds.md)
+* [Responsibilities](catalyst-contributor/responsibilities.md)
+* [Roles](catalyst-contributor/roles/README.md)
+  * [Budget Ranges](catalyst-contributor/roles/budget-ranges.md)
+  * [Minimum Thresholds](catalyst-contributor/roles/minimum-thresholds.md)
 
 ## Contributor Guides
 
