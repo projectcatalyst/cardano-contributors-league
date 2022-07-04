@@ -8,7 +8,7 @@ Budget ranges represent what a candidate is recommended to use when budgeting a 
 
 
 
-After [reviewing potential structure](broken-reference)s the initial budget range is for a 6 month funding time frame.
+After [reviewing potential structures](https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-structure) the initial budget range is for a 6 month funding time frame.
 
 
 
