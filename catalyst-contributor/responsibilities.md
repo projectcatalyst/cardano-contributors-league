@@ -40,4 +40,4 @@ Manage ecosystem parameters, tools and services to ensure the ecosystem is robus
 
 ### **Delegate**&#x20;
 
-Catalyst contributors are not expected to be responsible for every form of work that supports the Catalyst ecosystem. Contributors should delegate tasks and efforts towards community members and also support existing projects that help to improve the Catalyst ecosystem. Contributors can use any value accrued in their own treasury to support these initiatives suitable for delegation.&#x20;
+Catalyst contributors are not expected to be responsible for every form of work that supports the Catalyst ecosystem. Contributors should delegate tasks and efforts towards community members and also support existing projects that help to improve the Catalyst ecosystem. Contributors should try to distribute treasury funding they have accrued to support these initiatives that help the Catalyst ecosystem.
