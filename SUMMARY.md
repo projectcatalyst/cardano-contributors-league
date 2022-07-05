@@ -10,12 +10,6 @@
   * [Budget Ranges](catalyst-contributor/roles/budget-ranges.md)
   * [Minimum Thresholds](catalyst-contributor/roles/minimum-thresholds.md)
 
-## Contributor Guides
-
-* [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
-  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
-* [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
-
 ## Stewardship & Delegated Authority
 
 * [Stewardship & Delegated Authority Plan](stewardship-and-delegated-authority/stewardship-and-delegated-authority-plan.md)
@@ -23,6 +17,12 @@
 ## Treasury
 
 * [Catalyst Contributor Treasury](treasury/catalyst-contributor-treasury.md)
+
+## Contributor Guides
+
+* [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
+  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
+* [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Category Proposal
 
