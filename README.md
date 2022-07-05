@@ -16,6 +16,6 @@ Catalyst contributors are community members who are paid by the Cardano treasury
 
 * [**Contributor**](broken-reference) - Find out about what would be expected from a Catalyst contributor.
 * ****[**Contributor Guides**](broken-reference) - Guides on how to create a proposal as a contributor candidate and also how to assess candidate proposals.
-* [**Ownership & Authority**](broken-reference) - Exploring a plan for how Catalyst contributors can be an effective solution for passing ownership and authority over to the community.
+* [**Stewardship & Delegated Authority**](broken-reference) - Exploring a plan for how Catalyst contributors can be an effective solution for passing stewardship and delegated authority over to the community.
 * ****[**Treasury**](broken-reference) - Details of how full time contributors would manage a Catalyst focussed treasury that would be used for rapid funding that supports the ecosystem.
 * [**Category Proposals**](broken-reference) - List of all challenge setting proposals created for hiring contributors in the ecosystem.&#x20;
