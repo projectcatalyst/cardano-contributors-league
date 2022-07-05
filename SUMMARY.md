@@ -4,6 +4,7 @@
 
 ## Catalyst Contributor
 
+* [Focus Areas](catalyst-contributor/focus-areas.md)
 * [Responsibilities](catalyst-contributor/responsibilities.md)
 * [Roles](catalyst-contributor/roles/README.md)
   * [Budget Ranges](catalyst-contributor/roles/budget-ranges.md)

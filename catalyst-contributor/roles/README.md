@@ -14,7 +14,7 @@ Contributors select a role to indicate where they will spend the most time suppo
 
 
 
-## Selected roles
+## Available roles
 
 The following are the initial roles for contributors to select from. Other future considerations are discussed below in the [future potential roles](./#others-areas-to-consider).
 
