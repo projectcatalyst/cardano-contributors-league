@@ -42,3 +42,4 @@
 
 * [Contributor Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
 * [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
+* [Suggest Changes & Provide Feedback](https://docs.catalystcontributors.org/documentation/suggest-changes-and-offer-feedback)
