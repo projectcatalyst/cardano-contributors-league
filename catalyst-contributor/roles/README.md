@@ -93,7 +93,7 @@ The following are the initial roles for contributors to select from. Other futur
 
 ### **Marketing**
 
-**Objective** - Bring together, host events and provide support to the marketing efforts from across the ecosystem to bring better alignment, data driven results and report evidence on the impact of the combined efforts that promote the ecosystem.
+**Objective** - Reach out to the community, host events and provide support to the marketing efforts across the Catalyst ecosystem. Bring better alignment, data driven results and reporting to highlight evidence of the impact the ecosystem is having and any progress due to community efforts towards improving the Catalyst process.
 
 **Tasks**
 
