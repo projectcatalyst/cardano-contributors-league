@@ -34,7 +34,8 @@ The following are the initial roles for contributors to select from. Other futur
 * Coordinate technical efforts
 * Host technical discussion meetings
 * Write technical documentation
-* Provide community technical support&#x20;
+* Provide community technical support
+* Track and analyse application performance
 
 
 
@@ -44,15 +45,16 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Align proposal teams and support collaboration
+* Align proposal teams where possible and encourage collaboration
 * Support the improvement of proposals writing and communication
-* Collect details on problems within community
+* Collect details on any problems shared from the community
 * Run community events and meet ups
 * Host topic based collaboration meetings
-* Help manage an ecosystem calendar
+* Help organise and manage an ecosystem calendar
 * Support translations and coordinate with global communities
 * Help educate community members about the ecosystem
-* Provide community general support
+* Provide general support to community
+* Look for skill gaps in the ecosystem that would benefit from more contributors
 
 
 
@@ -62,12 +64,13 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Analyse and give feedback to proposals and challenge setting
-* Conduct ecosystem research, problem outlining and analysis
+* Analyse and give feedback to proposals and ecosystem changes
+* Conduct ecosystem research, outline problems and conduct analysis
 * Collect and aggregate community feedback
-* Aggregate, data model and report on ecosystem analytics&#x20;
-* Audit proposal teams plans and execution
-* Research, define and maintain ecosystem processes
+* Create, maintain and aggregate ecosystem analytics
+* Share statistics and create reports on ecosystem performance
+* Audit proposal team plans and execution
+* Research, define, maintain and improve ecosystem processes
 * Research and report on other ecosystems
 * Host meetings on problems, research or findings from analysis
 * Write and maintain ecosystem documentation&#x20;
@@ -81,12 +84,12 @@ The following are the initial roles for contributors to select from. Other futur
 **Tasks**
 
 * Research, support and flag proposals that require review
-* Test implementation features prior to release
+* Help test implementation features prior to release
 * Create and document QA process plans
-* Research QA best practices for core ecosystem features
-* Research auditing best practices for proposal teams
+* Research QA best practices for core ecosystem development processes
+* Research auditing best practices for different types of proposal
 * Review proposal team audit reports for feedback and flagging
-* Manage and improve progress and KPI audit reporting processes
+* Manage and improve progress audit reporting processes
 * Host meetings on QA & auditing process, improvements and results
 
 
@@ -97,17 +100,17 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Effectively promote and share the ecosystem
-* Support with proposer outreach and engagement
-* Support marketing focussed proposals
+* Regularly promote and share the ecosystem
+* Conduct proposer outreach and try to increase engagement
+* Review and provide feedback to proposals around marketing
 * Aggregate and report on marketing analytics data
-* Support the creation of design marketing materials
-* Support event organisation and promotion
-* Conduct market research
+* Support the creation of any design marketing materials
+* Support community event organisation and promotion of those events
+* Conduct market research and share findings
 * Write and proofread marketing copy
-* Research and produce creative content
-* Provide guidance to proposals around marketing
-* Host meetings on marketing approaches and results
+* Research and help produce creative content
+* Identify marketing tools, processes and approaches to increase efficiency in engaging with and sharing information to the community &#x20;
+* Host meetings on marketing approaches, new tools or processes and any recent results
 
 
 
@@ -118,16 +121,15 @@ The following are the initial roles for contributors to select from. Other futur
 **Tasks**
 
 * Lead efforts on problem sensing, problem prioritisation, solution research and solution implementation planning
-* Engage with contributors and community to define product strategy and roadmap
+* Engage with contributors and the community to improve the product strategy and roadmap
 * Conduct research and analysis on similar products and ecosystems
-* Communicate with community all product plans, timelines and releases
-* Research and improve product development workflows
+* Communicate and host discussions regarding any product plans, timelines and releases
+* Research, maintain and improve product development workflows
 * Draft ecosystem functionality implementation plans
-* Research and analyse industry user experience developments and best practices
+* Research and analyse current industry user experience developments and best practices
 * Gather product feedback and analyse results
-* Aggregate and report on product analytics data
-* Host meetings around problem sensing, prioritisation and solution approaches
-* Provide guidance to proposals around product direction and existing ecosystem solutions or product plans
+* Aggregate and report on product analytics data and community feedback
+* Host meetings around problem sensing, prioritisation and suggested solution approaches
 
 
 
@@ -140,12 +142,12 @@ The following are the initial roles for contributors to select from. Other futur
 * Create design concepts, graphics and layouts
 * Create and maintain style guides, icons and illustrations
 * Create wireframes and visualise product user flows
-* Gather user feedback and iterate designs where needed
+* Gather user feedback and iterate on designs across the ecosystem
 * Support research on industry user experience developments and best practices
 * Review final layouts and implementations to suggest any improvements
-* Support online and local events with design material
-* Support and provide feedback on design to proposal teams
-* Host design discussion meetings
+* Create design materials for relevant online and local events
+* Support and provide feedback on design to ecosystem projects
+* Host design discussion meetings and gather community feedback
 
 
 
