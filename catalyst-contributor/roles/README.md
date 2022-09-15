@@ -26,16 +26,18 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Research technical implementation options
-* Define technical requirements
-* Architect features (Data model, tech stack, protocol design)
-* Develop and maintain features
-* Audit other proposal teams development plans or implementation
-* Coordinate technical efforts
-* Host technical discussion meetings
-* Write technical documentation
-* Provide community technical support
-* Track and analyse application performance
+* Research, analyse and report on technical implementation approaches and best practices
+* Create, maintain and improve technical standards that can be used when developing ecosystem infrastructure
+* Define and iterate on technical requirements for ecosystem functionality
+* Research, plan and present software architecture approaches for ecosystem applications
+* Develop and maintain applications and features
+* Test, debug and monitor application software changes
+* Track and analyse the performance of ecosystem applications
+* Write and maintain technical documentation about ecosystem systems and processes
+* Provide support on how the ecosystem operates technically and about any development processes
+* Coordinate technical efforts across the ecosystem and where suitable attempt to align standards, technical implementations and processes
+* Host technical discussions and meetings
+* Provide feedback to technical proposals on their development plans or implementations
 
 
 
@@ -45,16 +47,16 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Align proposal teams where possible and encourage collaboration
-* Support the improvement of proposals writing and communication
-* Collect details on any problems shared from the community
-* Run community events and meet ups
-* Host topic based collaboration meetings
-* Help organise and manage an ecosystem calendar
+* Communicate and collaborate with the community to identify areas where more support is needed or where the biggest problems exist
+* Communicate with anyone working in the ecosystem to identify and resolve pain points so contributors are able to work most effectively
+* Organise and manage an ecosystem calendar for ecosystem events and updates
 * Support translations and coordinate with global communities
-* Help educate community members about the ecosystem
-* Provide general support to community
-* Look for skill gaps in the ecosystem that would benefit from more contributors
+* Identify any skill gaps that exist for teams working in the ecosystem and help them where possible in finding suitable contributors for those skill sets
+* Write and maintain documentation about how to participate in the ecosystem
+* Provide community members support to understand and participate in the ecosystem
+* Review contribution efforts across the ecosystem and identify areas to encourage more collaboration and alignment
+* Host community discussions and events about relevant ecosystem topics
+* Review proposals, provide feedback and identify any opportunities for collaboration between projects in the ecosystem
 
 
 
@@ -64,16 +66,16 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Analyse and give feedback to proposals and ecosystem changes
-* Conduct ecosystem research, outline problems and conduct analysis
-* Collect and aggregate community feedback
-* Create, maintain and aggregate ecosystem analytics
-* Share statistics and create reports on ecosystem performance
-* Audit proposal team plans and execution
-* Research, define, maintain and improve ecosystem processes
-* Research and report on other ecosystems
-* Host meetings on problems, research or findings from analysis
-* Write and maintain ecosystem documentation&#x20;
+* Conduct ecosystem research and analysis to identify problems and opportunities for improvement
+* Collect, aggregate and analyse community feedback and overall sentiment about the ecosystem
+* Gather, analyse and report on statistics about ecosystem applications usage, performance and outcomes
+* Create, maintain and improve ecosystem processes for gathering and measuring data, performance and community feedback
+* Conduct market wide research and report on similar ecosystems and their products usage, performance and outcomes
+* Write and maintain documentation about processes, research findings and ecosystem statistics
+* Provide support to community members in understanding the available ecosystem research, analysis and statistics
+* Coordinate efforts towards applying information around research findings, analysis and statistics to the maintenance and improvement of ecosystem systems and processes
+* Host discussions and meetings about ecosystem research findings, analysis and statistics
+* Provide feedback to proposals that could benefit from considering relevant ecosystem research, analysis and statistics
 
 
 
@@ -83,14 +85,15 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Research, support and flag proposals that require review
-* Help test implementation features prior to release
-* Create and document QA process plans
-* Research QA best practices for core ecosystem development processes
-* Research auditing best practices for different types of proposal
-* Review proposal team audit reports for feedback and flagging
-* Manage and improve progress audit reporting processes
-* Host meetings on QA & auditing process, improvements and results
+* Review and flag submitted proposals that require further checks and verification
+* Test implementation features prior to release and report on any issues
+* Research QA best practices for ecosystem development processes
+* Research, analyse and improve auditing approaches so that best practices are being used for different types of proposals
+* Write and maintain documentation about the auditing or QA processes used across the ecosystem
+* Provide support to the community on how to audit funded proposals and test new ecosystem functionality
+* Coordinate community efforts towards how to effectively test and audit within the ecosystem
+* Host community discussions about funded proposal auditing and the ecosystem QA process
+* Audit and provide feedback to progress reports from funded proposals
 
 
 
@@ -100,17 +103,17 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Regularly promote and share the ecosystem
-* Conduct proposer outreach and try to increase engagement
-* Review and provide feedback to proposals around marketing
-* Aggregate and report on marketing analytics data
-* Support the creation of any design marketing materials
-* Support community event organisation and promotion of those events
-* Conduct market research and share findings
-* Write and proofread marketing copy
-* Research and help produce creative content
-* Identify marketing tools, processes and approaches to increase efficiency in engaging with and sharing information to the community &#x20;
-* Host meetings on marketing approaches, new tools or processes and any recent results
+* Promote and share the ecosystem with different marketing initiatives
+* Conduct proposer outreach to increase the number of quality proposals submitted each funding round
+* Aggregate, analyse and report on marketing analytics data and community efforts
+* Support the research and creation of marketing resources and creative content
+* Write or proofread marketing copy for use in promotion of the ecosystem
+* Identify marketing tools, processes and approaches to increase efficiency in performing any ecosystem marketing and outreach efforts
+* Write and maintain documentation about events and marketing processes used for ecosystem marketing and outreach
+* Provide support on any marketing or outreach efforts needed for relevant areas across the ecosystem
+* Coordinate efforts in the ecosystem around the promotion of different ecosystem events, updates and news
+* Host discussions and events about the benefits of the ecosystem and recent successes
+* Provides feedback to proposals regarding their marketing and outreach plans and efforts
 
 
 
@@ -120,16 +123,16 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Lead efforts on problem sensing, problem prioritisation, solution research and solution implementation planning
-* Engage with contributors and the community to improve the product strategy and roadmap
-* Conduct research and analysis on similar products and ecosystems
-* Communicate and host discussions regarding any product plans, timelines and releases
-* Research, maintain and improve product development workflows
-* Draft ecosystem functionality implementation plans
-* Research and analyse current industry user experience developments and best practices
-* Gather product feedback and analyse results
-* Aggregate and report on product analytics data and community feedback
-* Host meetings around problem sensing, prioritisation and suggested solution approaches
+* Create and maintain product development workflows that take ideas and problem sensing through to implementation of solutions, outcome tracking and continued iterative improvement
+* Conduct research, analyse and report on similar products and ecosystems in the wider market
+* Research, analyse and improve the approaches and best practices to use for product development workflows
+* Create and iterate user experience flows and implementation plans based on user feedback, usage data and product planning
+* Gather, aggregate and report on analytic data points and user experience feedback regarding the different systems and processes used in the ecosystem
+* Write and maintain documentation about ecosystem priorities and roadmaps, product processes, feature releases and product workflows.
+* Provide support about ecosystem products, requirements, priorities and existing user problems to help others understand the current ecosystem
+* Coordinate efforts around product development to encourage collaboration and bring more alignment around problems, prioritisation, suggested solutions, improvements to existing solutions and shared understanding of performance outcomes for recent product releases
+* Host discussions and meetings to gather product feedback from the community or showcase existing progress and current product development priorities
+* Provide feedback to proposals regarding their product plans and identify any overlaps or opportunities for experimentation and collaboration
 
 
 
@@ -139,15 +142,16 @@ The following are the initial roles for contributors to select from. Other futur
 
 **Tasks**
 
-* Create design concepts, graphics and layouts
-* Create and maintain style guides, icons and illustrations
-* Create wireframes and visualise product user flows
-* Gather user feedback and iterate on designs across the ecosystem
-* Support research on industry user experience developments and best practices
-* Review final layouts and implementations to suggest any improvements
-* Create design materials for relevant online and local events
-* Support and provide feedback on design to ecosystem projects
-* Host design discussion meetings and gather community feedback
+* Create and iterate on design concepts, wireframe designs, user flows and layouts for ecosystem applications
+* Create graphics and illustrations for events and online resources
+* Create and maintain shared style guides, icons and illustrations
+* Conduct research, apply and report on best practices in recent developments of design or user experience being used in the wider market
+* Gather community feedback regarding any design and interfaces used to understand the ease of use and user sentiment to help find any areas for improvement
+* Write and maintain documentation about any adopted design practices or user experience findings
+* Support ecosystem initiatives by reviewing designs and implementations and offering any suggestions for improvements
+* Coordinate efforts around shared design practices being used that increase ease of use, consistency and familiarity across the ecosystem in the interfaces and graphics used
+* Host discussions about best practices for design that help improve overall usability and user experience quality across the ecosystem
+* Provide feedback to proposals regarding their design and interface plans and efforts
 
 
 

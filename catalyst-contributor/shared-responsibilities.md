@@ -2,9 +2,9 @@
 description: Responsibilities for full time Catalyst contributors
 ---
 
-# Responsibilities
+# Shared Responsibilities
 
-A cohort of Catalyst contributors should cover the following combined areas of responsibility to support the growth and evolution of the Catalyst ecosystem.
+A cohort of Catalyst contributors should cover the following combined shared areas of responsibility to support the growth and evolution of the Catalyst ecosystem.
 
 
 
