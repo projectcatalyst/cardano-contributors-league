@@ -4,25 +4,29 @@ description: What should a candidate include in their proposal to become a contr
 
 # Candidate Proposal Guide
 
-The following is the information candidates should add to their proposal. An [example candidate proposal](example-candidate-proposal.md) has been created as a reference.
+The following is the information candidates should add to their proposal. Check out the examples contributor proposals for [Ada Lovelace](example-proposal-ada-lovelace.md) and [Gerolamo Cardano](example-proposal-gerolamo-cardano.md).
 
 
 
 ### Role
 
-Overview - Candidates are tasked with specifying their selected [role](../../catalyst-contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
+Candidates are tasked with specifying their selected [role](../../catalyst-contributor/roles/) and then providing any extra information they want about the selected role or other roles they believe they will be helpful in contributing towards.
 
 
 
-**My main role** - Required. Candidates should specify the [role](../../catalyst-contributor/roles/) and then also how they would add value. Contributors will be spending more than half their time delivering against this roles requirements.
+**Primary role** - Required. Specify the [role](../../catalyst-contributor/roles/) which you intend to spend at least half your time supporting whilst being a contributor.
 
-**Roles I may also support** - Optional. Candidates can list out other roles, ordered by preference, that they would like to support with and information on how they intend to add value. Candidates should not feel that it is necessary to add any other roles and information if they would prefer to keep their full attention on their main role.
+**Preferred role responsibilities** - Required. For each of responsibilities list under the roles pick which ones would be relevant to what you would intend to spend your time on and list those same responsibilities under the role headings. Check the examples for [Ada Lovelace](example-proposal-ada-lovelace.md) and [Gerolamo Cardano](example-proposal-gerolamo-cardano.md) for guidance
+
+**Working preferences** - Required. Make a bullet pointed list of any working preferences you have. This could mean preferring deep work or collaborative work or which areas you most like spending your time on out of the preferred role responsibilities you selected.
+
+**Main priorities** - Required. Make a bullet pointed list of which areas you believe are the main priorities for you to help with in the ecosystem if you were funded as a contributor.&#x20;
 
 ****
 
 ### Personal information
 
-Overview - Candidates should provide some basic information about themselves so the community is aware on who they are.
+Candidates should provide some basic information about themselves so the community is aware on who they are.
 
 
 
@@ -36,7 +40,7 @@ Overview - Candidates should provide some basic information about themselves so 
 
 ### **Professional background**
 
-Overview - Candidates should provide some evidence to showcase their professional background. Professional profiles such as LinkedIn are preferred however candidates can alternatively list out things separately but should provide sources and evidence to support any statements made.
+Candidates should provide some evidence to showcase their professional background. Professional profiles such as LinkedIn are preferred however candidates can alternatively list out things separately but should provide sources and evidence to support any statements made.
 
 
 
@@ -56,21 +60,21 @@ Overview - Candidates should provide some evidence to showcase their professiona
 
 
 
-### **Contributions**
+### **Contributions & Participation**
 
-Overview - Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../catalyst-contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
+Candidates can share information on any existing contributions they've made to the ecosystem under the [roles](../../catalyst-contributor/roles/) that would be relevant. This helps community advisors and voters become more aware of how familiar they are with the ecosystem and to what extent they've already been contributing.
 
 
 
-**Catalyst roles** - Optional. What roles have you helped with in Catalyst? Have you been a community advisor, veteran community advisor, voter or proposer?
+**Ecosystem contributions** - Optional. Under headings of any of the [roles](../../catalyst-contributor/roles/) add any contributions you have made that are relevant to those roles. Add links to provide evidence where possible. Check the [Ada Lovelace](example-proposal-ada-lovelace.md) and [Gerolamo Cardano](example-proposal-gerolamo-cardano.md) examples for guidance.
 
-**Development, Coordination, Analysis, QA & Auditing, Marketing, Product, Design** - Optional. For any of the [roles](../../catalyst-contributor/roles/) candidates can add details on how they've contributed to the ecosystem with any supporting sources as evidence.
+**Ecosystem participation** - Optional. What roles have you helped with in Catalyst? Are you or have you been a stake pool operator, proposal assessor veteran proposal assessor, voter or proposer?
 
 
 
 ### **Budget**
 
-Overview - Candidates specify the budget they are requesting with reasoning behind how the value was determined along with any supporting sources.
+Candidates specify the budget they are requesting with reasoning behind how the value was determined along with any supporting sources.
 
 
 

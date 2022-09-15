@@ -21,7 +21,8 @@
 ## Contributor Guides
 
 * [Candidate Proposal Guide](contributor-guides/candidate-proposal-guide/README.md)
-  * [Example Candidate Proposal](contributor-guides/candidate-proposal-guide/example-candidate-proposal.md)
+  * [Example Proposal - Ada Lovelace](contributor-guides/candidate-proposal-guide/example-proposal-ada-lovelace.md)
+  * [Example Proposal - Gerolamo Cardano](contributor-guides/candidate-proposal-guide/example-proposal-gerolamo-cardano.md)
 * [Candidate Assessment Guide](contributor-guides/candidate-assessment-guide.md)
 
 ## Category Proposal
