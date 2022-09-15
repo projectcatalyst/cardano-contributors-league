@@ -27,16 +27,18 @@ The following are the initial roles for contributors to select from. Other futur
 **Tasks**
 
 * Research, analyse and report on technical implementation approaches and best practices
-* Create, maintain and improve technical standards that can be used when developing ecosystem infrastructure
+* Create, maintain and improve technical standards, security standards and design patterns that can be used in ecosystem infrastructure and applications
 * Define and iterate on technical requirements for ecosystem functionality
 * Research, plan and present software architecture approaches for ecosystem applications
-* Develop and maintain applications and features
+* Develop and maintain applications and features, tools, scripts, frameworks and utility code for the ecosystem
 * Test, debug and monitor application software changes
 * Track and analyse the performance of ecosystem applications
+* Support, improve and promote open source projects with technical expertise, guidance and development effort
+* Communicate with developers and the community to identify what infrastructure or development issues exist to then be considered and prioritised
 * Write and maintain technical documentation about ecosystem systems and processes
-* Provide support on how the ecosystem operates technically and about any development processes
+* Provide support on how the Catalyst ecosystem operates technically and about any development tools, libraries and processes
 * Coordinate technical efforts across the ecosystem and where suitable attempt to align standards, technical implementations and processes
-* Host technical discussions and meetings
+* Host technical discussions and meetings about the Catalyst process, governance and identity infrastructure available in the ecosystem or for giving updates on ecosystem changes
 * Provide feedback to technical proposals on their development plans or implementations
 
 
