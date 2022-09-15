@@ -70,9 +70,9 @@ The following are the initial roles for contributors to select from. Other futur
 
 * Conduct ecosystem research and analysis to identify problems and opportunities for improvement
 * Collect, aggregate and analyse community feedback and overall sentiment about the ecosystem
-* Gather, analyse and report on statistics about ecosystem applications usage, performance and outcomes
+* Gather, analyse and report on statistics about ecosystem infrastructure usage, performance and outcomes
 * Create, maintain and improve ecosystem processes for gathering and measuring data, performance and community feedback
-* Conduct market wide research and report on similar ecosystems and their products usage, performance and outcomes
+* Conduct market wide research and report on similar ecosystems and their infrastructure or product usage, performance and outcomes
 * Write and maintain documentation about processes, research findings and ecosystem statistics
 * Provide support to community members in understanding the available ecosystem research, analysis and statistics
 * Coordinate efforts towards applying information around research findings, analysis and statistics to the maintenance and improvement of ecosystem systems and processes
