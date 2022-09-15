@@ -52,11 +52,11 @@ The following are the initial roles for contributors to select from. Other futur
 * Communicate and collaborate with the community to identify areas where more support is needed or where the biggest problems exist
 * Communicate with anyone working in the ecosystem to identify and resolve pain points so contributors are able to work most effectively
 * Organise and manage an ecosystem calendar for ecosystem events and updates
-* Support translations and coordinate with global communities
+* Support translations of resources and documentation and coordinate with global communities
 * Identify any skill gaps that exist for teams working in the ecosystem and help them where possible in finding suitable contributors for those skill sets
-* Write and maintain documentation about how to participate in the ecosystem
-* Provide community members support to understand and participate in the ecosystem
-* Review contribution efforts across the ecosystem and identify areas to encourage more collaboration and alignment
+* Write, maintain and aggregate documentation about how to understand and participate in the ecosystem
+* Provide community members support to understand and participate in the Catalyst ecosystem
+* Review contribution efforts across the ecosystem and identify areas to encourage more collaboration and alignment or more application of standards and best practices
 * Host community discussions and events about relevant ecosystem topics
 * Review proposals, provide feedback and identify any opportunities for collaboration between projects in the ecosystem
 
