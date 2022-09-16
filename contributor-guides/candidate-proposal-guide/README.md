@@ -78,6 +78,6 @@ Candidates specify the budget they are requesting with reasoning behind how the 
 
 
 
-**Budget requested -** Required. The dollar value requested by the candidate to complete a 6 month term. Please refer to the budget ranges in the latest [challenge setting proposal ](broken-reference)for guidance.
+**Budget requested -** Required. The dollar value requested by the candidate to complete a 6 month term. Please refer to the budget ranges in the latest [category proposal ](broken-reference)for guidance.
 
 **Budget reasoning** - Recommended. Reasoning on how that value was determined based off the candidates professional background and their contributions and knowledge of the ecosystem.
