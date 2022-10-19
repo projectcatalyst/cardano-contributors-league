@@ -81,7 +81,7 @@ Coordination
 
 Product
 
-* Funding category focus area groupings - Working with the community and the analysis on funding categorisation I helped to categorise the different focus areas people could have ideas for into some suggested categories. Source -[https://docs.catalystcontributors.org/catalyst-funding-categories/](https://docs.catalystcontributors.org/catalyst-funding-categories/)
+* Funding category focus area groupings - Working with the community and the analysis on funding categorisation I helped to categorise the different focus areas people could have ideas for into some suggested categories. Source - [https://docs.catalystcontributors.org/catalyst-funding-categories/](https://docs.catalystcontributors.org/catalyst-funding-categories/)
 
 Coordination
 
@@ -89,7 +89,7 @@ Coordination
 
 Analysis
 
-* Contributor analysis - I supported the analysis identifying the need for a contributor funding model as an alternative incentive structure to allow people to work in the ecosystem full time to support, maintain and improve the systems and processes used for Catalyst. Source -[https://docs.catalystcontributors.org/contributor-analysis/](https://docs.catalystcontributors.org/contributor-analysis/)
+* Contributor analysis - I supported the analysis identifying the need for a contributor funding model as an alternative incentive structure to allow people to work in the ecosystem full time to support, maintain and improve the systems and processes used for Catalyst. Source - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 **Ecosystem participation**
 
