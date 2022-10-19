@@ -41,7 +41,7 @@ Catalyst Contributors is a group of community members voted on by the community 
 
 
 
-To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://docs.catalystcontributors.org/catalyst-contributors/](https://docs.catalystcontributors.org/catalyst-contributors/)
+To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 
 
@@ -49,7 +49,7 @@ To read the full background, analysis and current documentation for Catalyst Con
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed. However the ecosystem also relies on impactful community contributors. The future of funding through Catalyst benefits from both funding ideas and full time contributors.
 
-The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-analysis/](https://docs.catalystcontributors.org/contributor-analysis/)
+The analysis behind how this contributor focussed category was created can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 
 
@@ -126,4 +126,4 @@ Community advisors should use the following guide when assessing a Catalyst cont
 
 **Future improvements for full time contributors**
 
-There are a number of improvements that can be integrated into the model of full time contributors that help support different areas of the ecosystem. A list of ideas can be found here - [https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements](https://docs.catalystcontributors.org/contributor-analysis/contributor-analysis/contributor-future-improvements)
+There are a number of improvements that can be integrated into the model of full time contributors that help support different areas of the ecosystem. A list of ideas can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/contributor-funding-model/future-improvements](https://docs.catalystcontributors.org/contributor-categorisation-analysis/contributor-funding-model/future-improvements)

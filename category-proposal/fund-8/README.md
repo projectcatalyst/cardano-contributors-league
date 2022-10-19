@@ -39,7 +39,7 @@ Catalyst Contributors is a community voted group of contributors in the Cardano 
 
 
 
-To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://catalyst-swarm.gitbook.io/catalyst-contributors/](https://catalyst-swarm.gitbook.io/catalyst-contributors/)
+To read the full background, analysis and current documentation for Catalyst Contributors please visit - [https://docs.catalystcontributors.org/catalyst-contributors/](https://docs.catalystcontributors.org/catalyst-contributors/)
 
 
 
@@ -47,7 +47,7 @@ To read the full background, analysis and current documentation for Catalyst Con
 
 There is a benefit to consider other funding models rather than idea based funding. Strong ecosystems are built on good ideas that are well executed but the ecosystem also relies on impactful community contributors. The future of Catalyst funding could include funding community contributors as well as just ideas.
 
-The [analysis](broken-reference) behind how this category brief was constructed can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure](https://catalyst-swarm.gitbook.io/catalyst-contributors/analysis/contributor-structure)
+The analysis behind how this category brief was constructed can be found here - [https://docs.catalystcontributors.org/contributor-categorisation-analysis/](https://docs.catalystcontributors.org/contributor-categorisation-analysis/)
 
 It details the tradeoffs of funding types, the decision to use duration and salary caps and how the category total requested budget was decided.
 
@@ -56,27 +56,27 @@ It details the tradeoffs of funding types, the decision to use duration and sala
 **What roles can I apply for?**
 
 * **Roles** - Development, Coordination, Analysis, QA & Auditing, Marketing, Product and Design
-* **Role details** - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor/roles](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor/roles)
+* **Role details** - [https://docs.catalystcontributors.org/catalyst-contributors/catalyst-contributor/roles](https://docs.catalystcontributors.org/catalyst-contributors/catalyst-contributor/roles)
 
 
 
 **Catalyst contributors candidate - What should be included in the proposal?**
 
-A guide for Catalyst contributor candidate proposals can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-proposal-guide)
+A guide for Catalyst contributor candidate proposals can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-proposal-guide](https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-proposal-guide)
 
 
 
 **Catalyst contributors budget guidelines - What budget should a contributor request?**
 
-Guidance for Catalyst contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-8/budget-ranges](https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-8/budget-ranges)
+Guidance for Catalyst contributors for setting their budget has been researched. Candidates are not forced to follow this guidance however the guidance can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-8/budget-ranges](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-8/budget-ranges)
 
 
 
 **Catalyst contributors minimum thresholds - Is there a minimum number of contributors for each role?**
 
-Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-8/minimum-thresholds](https://catalyst-swarm.gitbook.io/catalyst-contributors/proposals/fund-8/minimum-thresholds)
+Minimum thresholds have been added to make sure there is enough skills across the cohort of contributors for where help is needed most. The minimum thresholds for fund 8 can be found here - [https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-8/minimum-thresholds](https://docs.catalystcontributors.org/catalyst-contributors/category-proposal/fund-8/minimum-thresholds)
 
-****
+
 
 **What is expected from successful candidates?**
 
@@ -113,7 +113,7 @@ Minimum thresholds have been added to make sure there is enough skills across th
 
 **Community advisors - How candidates should be assessed**
 
-Community advisors should use the following guide when assessing a Catalyst contributor candidate proposal - [https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-assessment-guide](https://catalyst-swarm.gitbook.io/catalyst-contributors/contributor-guides/candidate-assessment-guide)
+Community advisors should use the following guide when assessing a Catalyst contributor candidate proposal - [https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-assessment-guide](https://docs.catalystcontributors.org/catalyst-contributors/contributor-guides/candidate-assessment-guide)
 
 
 
